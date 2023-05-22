@@ -1,5 +1,5 @@
 K-means_label,category,title,abstract
-1,0,Channel Cycle Time: A New Measure of Short-term Fairness,"This paper puts forth a new metric, dubbed channel cycle time, to measure the
+4,0,Channel Cycle Time: A New Measure of Short-term Fairness,"This paper puts forth a new metric, dubbed channel cycle time, to measure the
 short-term fairness of communication networks. Channel cycle time characterizes
 the average duration between two successful transmissions of a user, during
 which all other users have successfully accessed the channel at least once.
@@ -74,7 +74,7 @@ challenging multi-robot navigation environments demonstrate the greater
 effectiveness of NCF2 as compared to state-of-the-art fairness-aware
 multi-agent reinforcement learning methods. Our demo videos and code are
 available on the project webpage: https://omron-sinicx.github.io/ncf2/"
-1,0,Self-Agreement: A Framework for Fine-tuning Language Models to Find Agreement among Diverse Opinions,"Finding an agreement among diverse opinions is a challenging topic in
+4,0,Self-Agreement: A Framework for Fine-tuning Language Models to Find Agreement among Diverse Opinions,"Finding an agreement among diverse opinions is a challenging topic in
 multiagent systems. Recently, large language models (LLMs) have shown great
 potential in addressing this challenge due to their remarkable capabilities in
 comprehending human opinions and generating human-like text. However, they
@@ -108,7 +108,7 @@ changing environment and the other agent's actions. This is the first work that
 shows that world models facilitate the emergence of complex coordinated
 behaviors that enable interacting agents to ``understand'' both environmental
 and social dynamics."
-0,0,Collective Reasoning for Safe Autonomous Systems,"Collaboration in multi-agent autonomous systems is critical to increase
+4,0,Collective Reasoning for Safe Autonomous Systems,"Collaboration in multi-agent autonomous systems is critical to increase
 performance while ensuring safety. However, due to heterogeneity of their
 features in, e.g., perception qualities, some autonomous systems have to be
 considered more trustworthy than others when contributing to collaboratively
@@ -139,7 +139,7 @@ architectures are integrated for various implementation scenarios, including
 online/offline optimization and discrete/continuous environment. Numerical
 results corroborate the theory and demonstrate the validity and adaptability of
 our approach."
-1,0,Worst-Case VCG Redistribution Mechanism Design Based on the Lottery Ticket Hypothesis,"We study worst-case VCG redistribution mechanism design for the public
+4,0,Worst-Case VCG Redistribution Mechanism Design Based on the Lottery Ticket Hypothesis,"We study worst-case VCG redistribution mechanism design for the public
 project problem. For VCG redistribution mechanisms, the mechanism design task
 is only on setting the payments, subject to strategy-proofness and the
 non-deficit constraint, while maximizing the worst-case allocative efficiency
@@ -187,7 +187,7 @@ lifelong reinforcement learning and provides a lifelong learning benefit with
 respect to distributed RL baselines such as DD-PPO, IMPALA, and PPO+EWC. The
 system is particularly robust to connection drops and demonstrates rapid
 learning due to knowledge exchange."
-1,0,Participatory Budgeting With Multiple Degrees of Projects And Ranged Approval Votes,"In an indivisible participatory budgeting (PB) framework, we have a limited
+4,0,Participatory Budgeting With Multiple Degrees of Projects And Ranged Approval Votes,"In an indivisible participatory budgeting (PB) framework, we have a limited
 budget that is to be distributed among a set of projects, by aggregating the
 preferences of voters for the projects. All the prior work on indivisible PB
 assumes that each project has only one possible cost. In this work, we let each
@@ -202,7 +202,7 @@ several permissible costs. We also analyze the fixed parameter tractability of
 the problem. Finally, we propose some important and intuitive axioms and
 analyze their satisfiability by different PB rules. We conclude by making some
 crucial remarks."
-0,0,TPMDP: Threshold Personalized Multi-party Differential Privacy via Optimal Gaussian Mechanism,"In modern distributed computing applications, such as federated learning and
+4,0,TPMDP: Threshold Personalized Multi-party Differential Privacy via Optimal Gaussian Mechanism,"In modern distributed computing applications, such as federated learning and
 AIoT systems, protecting privacy is crucial to prevent misbehaving parties from
 colluding to steal others' private information. However, guaranteeing the
 utility of computation outcomes while protecting all parties' privacy can be
@@ -241,7 +241,7 @@ replanning. Additionally, SAMA incorporates language-grounded RL to train each
 agent's subgoal-conditioned policy. SAMA demonstrates considerable advantages
 in sample efficiency compared to state-of-the-art ASG methods, as evidenced by
 its performance on two challenging sparse-reward tasks, Overcooked and MiniRTS."
-1,0,Q-SHED: Distributed Optimization at the Edge via Hessian Eigenvectors Quantization,"Edge networks call for communication efficient (low overhead) and robust
+4,0,Q-SHED: Distributed Optimization at the Edge via Hessian Eigenvectors Quantization,"Edge networks call for communication efficient (low overhead) and robust
 distributed optimization (DO) algorithms. These are, in fact, desirable
 qualities for DO frameworks, such as federated edge learning techniques, in the
 presence of data and system heterogeneity, and in scenarios where internode
@@ -331,7 +331,7 @@ achieved in some or all Nash equilibrium choices, and secondly, that the
 principal is able to verify that their goal is satisfied. In this paper, we
 formally define this problem and completely characterise the computational
 complexity of the most relevant decision problems associated with it."
-0,0,Agent Heterogeneity Mediates Extremism in an Adaptive Social Network Model,"An existing model of opinion dynamics on an adaptive social network is
+4,0,Agent Heterogeneity Mediates Extremism in an Adaptive Social Network Model,"An existing model of opinion dynamics on an adaptive social network is
 extended to introduce update policy heterogeneity, representing the fact that
 individual differences between social animals can affect their tendency to
 form, and be influenced by, their social bonds with other animals. As in the
@@ -381,7 +381,7 @@ strategy profiles (for both autonomous and coordinated agents) optimizing these
 objectives. Our experiments show that our strategy synthesis algorithm can
 construct highly non-trivial and efficient strategy profiles for environments
 with general topology."
-0,0,A Deep RL Approach on Task Placement and Scaling of Edge Resources for Cellular Vehicle-to-Network Service Provisioning,"Cellular-Vehicle-to-Everything (C-V2X) is currently at the forefront of the
+4,0,A Deep RL Approach on Task Placement and Scaling of Edge Resources for Cellular Vehicle-to-Network Service Provisioning,"Cellular-Vehicle-to-Everything (C-V2X) is currently at the forefront of the
 digital transformation of our society. By enabling vehicles to communicate with
 each other and with the traffic environment using cellular networks, we
 redefine transportation, improving road safety and transportation services,
@@ -460,7 +460,7 @@ for which the agents are expected to have similar knowledge. Our experiments
 demonstrate successful communication establishment under the required
 restrictions, and compare different agent policies that aim to solve the task
 in an efficient manner."
-1,0,Robust Auction Design with Support Information,"A seller wants to sell an item to $n$ buyers. The buyer valuations are drawn
+4,0,Robust Auction Design with Support Information,"A seller wants to sell an item to $n$ buyers. The buyer valuations are drawn
 i.i.d. from a distribution, but the seller does not know this distribution; the
 seller only knows the support $[a,b]$. To be robust against the lack of
 knowledge of the environment and buyers' behavior, the seller optimizes over
@@ -486,7 +486,7 @@ classes, implying that deviating from standard mechanisms is necessary for
 robustness. Lastly, we show that the same results hold under other distribution
 classes that capture ""positive dependence"" (mixture of i.i.d., exchangeable and
 affiliated), as well as i.i.d. regular distributions."
-1,0,Deliberation and Voting in Approval-Based Multi-Winner Elections,"Citizen-focused democratic processes where participants deliberate on
+4,0,Deliberation and Voting in Approval-Based Multi-Winner Elections,"Citizen-focused democratic processes where participants deliberate on
 alternatives and then vote to make the final decision are increasingly popular
 today. While the computational social choice literature has extensively
 investigated voting rules, there is limited work that explicitly looks at the
@@ -619,7 +619,7 @@ quantization mechanisms and packet drop models have been extensively studied in
 the federated learning, distributed optimization, and networked control systems
 literature, our work is the first to provide a non-asymptotic analysis of their
 effects in multi-agent and federated reinforcement learning."
-0,0,Network-GIANT: Fully distributed Newton-type optimization via harmonic Hessian consensus,"This paper considers the problem of distributed multi-agent learning, where
+4,0,Network-GIANT: Fully distributed Newton-type optimization via harmonic Hessian consensus,"This paper considers the problem of distributed multi-agent learning, where
 the global aim is to minimize a sum of local objective (empirical loss)
 functions through local optimization and information exchange between
 neighbouring nodes. We introduce a Newton-type fully distributed optimization
@@ -680,7 +680,7 @@ scenarios with two and five values are considered. The results are analysed
 from different perspectives to show the impact of a selected evolutionary
 algorithm on the solution, and the importance of understanding the relation
 between values when prioritising them."
-1,0,Building resilient organizations: The roles of top-down vs. bottom-up organizing,"Organizations face numerous challenges posed by unexpected events such as
+4,0,Building resilient organizations: The roles of top-down vs. bottom-up organizing,"Organizations face numerous challenges posed by unexpected events such as
 energy price hikes, pandemic disruptions, terrorist attacks, and natural
 disasters, and the factors that contribute to organizational success in dealing
 with such disruptions often remain unclear. This paper analyzes the roles of
@@ -709,7 +709,7 @@ our method achieves superior performance and data efficiency compared to solid
 baselines on the StarCraft II micromanagement challenge. Additional ablation
 experiments also help identify the key factors contributing to the performance
 of UNSR."
-1,0,Conflict Mitigation Framework and Conflict Detection in O-RAN Near-RT RIC,"The steady evolution of the Open RAN concept sheds light on xApps and their
+4,0,Conflict Mitigation Framework and Conflict Detection in O-RAN Near-RT RIC,"The steady evolution of the Open RAN concept sheds light on xApps and their
 potential use cases in O-RANcompliant deployments. There are several areas
 where xApps can be used that are being widely investigated, but the issue of
 mitigating conflicts between xApp decisions requires further in-depth
@@ -726,7 +726,7 @@ network performance, with a small negative impact on its reliability. It is
 concluded that defining a unified CMF in Near-RT RIC is the first step towards
 providing a standardized method of conflict detection and resolution in O-RAN
 environments."
-1,0,Stability and Convergence of Distributed Stochastic Approximations with large Unbounded Stochastic Information Delays,"We generalize the Borkar-Meyn stability Theorem (BMT) to distributed
+4,0,Stability and Convergence of Distributed Stochastic Approximations with large Unbounded Stochastic Information Delays,"We generalize the Borkar-Meyn stability Theorem (BMT) to distributed
 stochastic approximations (SAs) with information delays that possess an
 arbitrary moment bound. To model the delays, we introduce Age of Information
 Processes (AoIPs): stochastic processes on the non-negative integers with a
@@ -740,7 +740,7 @@ To evaluate this recursion, we propose a new Gronwall-type inequality for
 time-varying lower limits of summations. As applications to our distributed
 BMT, we discuss distributed gradient-based optimization and a new approach to
 analyzing SAs with momentum."
-1,0,Path-Based Sensors: Will the Knowledge of Correlation in Random Variables Accelerate Information Gathering?,"Effective communication is crucial for deploying robots in mission-specific
+4,0,Path-Based Sensors: Will the Knowledge of Correlation in Random Variables Accelerate Information Gathering?,"Effective communication is crucial for deploying robots in mission-specific
 tasks, but inadequate or unreliable communication can greatly reduce mission
 efficacy, for example in search and rescue missions where communication-denied
 conditions may occur. In such missions, robots are deployed to locate targets,
@@ -861,7 +861,7 @@ where most counterpart deep actor networks failed. Necessary ablation
 experiments and visualization analyses were conducted to explain why MoP and
 SAN are effective in multi-agent reinforcement learning scenarios while DNN
 performs poorly in the generalization test."
-1,0,Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling,"We study synchronization for linearly coupled temporal networks of
+4,0,Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling,"We study synchronization for linearly coupled temporal networks of
 heterogeneous time-dependent nonlinear agents via the convergence of attracting
 trajectories of each node. The results are obtained by constructing and
 studying the stability of a suitable linear nonautonomous problem bounding the
@@ -920,7 +920,7 @@ with fixed SVO policies, but with significantly reduced inequality between the
 welfare of agents with different SVO traits. We observed that by allowing
 agents to change their policy in response to task outcomes, agents can moderate
 their behavior to achieve greater social equality. \end{abstract}"
-1,0,Learning Personalized Page Content Ranking Using Customer Representation,"On E-commerce stores (Amazon, eBay etc.) there are rich recommendation
+4,0,Learning Personalized Page Content Ranking Using Customer Representation,"On E-commerce stores (Amazon, eBay etc.) there are rich recommendation
 content to help shoppers shopping more efficiently. However given numerous
 products, it's crucial to select most relevant content to reduce the burden of
 information overload. We introduced a content ranking service powered by a
@@ -960,7 +960,7 @@ converges to the globally optimal policy at a sublinear rate. We extend our
 algorithm to the off-policy setting and introduce pessimism to policy
 evaluation, which aligns with experiments. To our knowledge, this is the first
 provably convergent multi-agent PPO algorithm in cooperative Markov games."
-1,0,Global Update Tracking: A Decentralized Learning Algorithm for Heterogeneous Data,"Decentralized learning enables the training of deep learning models over
+4,0,Global Update Tracking: A Decentralized Learning Algorithm for Heterogeneous Data,"Decentralized learning enables the training of deep learning models over
 large distributed datasets generated at different locations, without the need
 for a central server. However, in practical scenarios, the data distribution
 across these devices can be significantly different, leading to a degradation
@@ -1005,7 +1005,7 @@ terms of schedule's optimality) is self-evident. We then refine this
 specification, inspired by the design of our specialised algorithm, to obtain
 an efficient system that can be used as a playground to explore various aspects
 of attack-defence trees. We compare the two approaches on different benchmarks."
-1,0,Deadlock-Free Collision Avoidance for Nonholonomic Robots,"We present a method for deadlock-free and collision-free navigation in a
+4,0,Deadlock-Free Collision Avoidance for Nonholonomic Robots,"We present a method for deadlock-free and collision-free navigation in a
 multi-robot system with nonholonomic robots. The problem is solved by quadratic
 programming and is applicable to most wheeled mobile robots with linear
 kinematic constraints. We introduce masked velocity and Masked Cooperative
@@ -1041,7 +1041,7 @@ these challenges, we propose to extend costmap-based trajectory evaluation to a
 distributed multi-agent setting. We demonstrate that our bandwidth-efficient,
 uncertainty-aware method reduces collision rates by up to 62.5% compared to
 single agent baselines."
-1,0,a general model of vehicle routing guidance systems based on distributive learning scheme,"Dynamic traffic assignment and vehicle route guidance have been important
+4,0,a general model of vehicle routing guidance systems based on distributive learning scheme,"Dynamic traffic assignment and vehicle route guidance have been important
 problems in ITS for some time. This paper proposes a new model for VRGS, which
 takes into consideration of the information propagation, user selection and
 information reaction. Parameter p is then defined as the updating weight for
@@ -1050,7 +1050,7 @@ calculated through a function which denotes information propagation over time
 and space and the function needs further optimization. Comparison to static
 traffic assignment, DTA and feasible strategies are given, and future work is
 also stated."
-1,0,A Game of Pawns,"We introduce and study pawn games, a class of two-player zero-sum turn-based
+4,0,A Game of Pawns,"We introduce and study pawn games, a class of two-player zero-sum turn-based
 graph games. A turn-based graph game proceeds by placing a token on an initial
 vertex, and whoever controls the vertex on which the token is located, chooses
 its next location. This leads to a path in the graph, which determines the
@@ -1070,7 +1070,7 @@ exponentially-succinct turn-based games, we identify several natural classes
 that can be solved in PTIME. On the negative side, we identify several
 EXPTIME-complete classes, where our hardness proofs are based on a new class of
 games called lock & Key games, which may be of independent interest."
-1,0,Decentralised Semi-supervised Onboard Learning for Scene Classification in Low-Earth Orbit,"Onboard machine learning on the latest satellite hardware offers the
+4,0,Decentralised Semi-supervised Onboard Learning for Scene Classification in Low-Earth Orbit,"Onboard machine learning on the latest satellite hardware offers the
 potential for significant savings in communication and operational costs. We
 showcase the training of a machine learning model on a satellite constellation
 for scene classification using semi-supervised learning while accounting for
@@ -1106,7 +1106,7 @@ exclusion, which in turn prevents doublespending.
   Flash has two variants: for high congestion when multiple blocks that contain
 multiple payments are issued concurrently; and for low congestion when payments
 are infrequent."
-1,0,Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach,"High-density, unsignalized intersection has always been a bottleneck of
+4,0,Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach,"High-density, unsignalized intersection has always been a bottleneck of
 efficiency and safety. The emergence of Connected Autonomous Vehicles (CAVs)
 results in a mixed traffic condition, further increasing the complexity of the
 transportation system. Against this background, this paper aims to study the
@@ -1129,7 +1129,7 @@ framework is beneficial to the driving conflict resolution and the traffic
 efficiency improvement of the mixed unsignalized intersection. Besides, due to
 the consideration of driving heterogeneity, better human-machine interaction
 and cooperation can be realized in this paper."
-1,0,Decentralized diffusion-based learning under non-parametric limited prior knowledge,"We study the problem of diffusion-based network learning of a nonlinear
+4,0,Decentralized diffusion-based learning under non-parametric limited prior knowledge,"We study the problem of diffusion-based network learning of a nonlinear
 phenomenon, $m$, from local agents' measurements collected in a noisy
 environment. For a decentralized network and information spreading merely
 between directly neighboring nodes, we propose a non-parametric learning
@@ -1154,7 +1154,7 @@ from ST-MADDPG can be used to alleviate the inherent asymmetry in the
 environment. By exploiting the leader's advantage, ST-MADDPG improves the
 quality of a co-evolution process and results in more sophisticated and complex
 strategies that work well even against an unseen strong opponent."
-1,0,A computational framework of human values for ethical AI,"In the diverse array of work investigating the nature of human values from
+4,0,A computational framework of human values for ethical AI,"In the diverse array of work investigating the nature of human values from
 psychology, philosophy and social sciences, there is a clear consensus that
 values guide behaviour. More recently, a recognition that values provide a
 means to engineer ethical AI has emerged. Indeed, Stuart Russell proposed
@@ -1167,7 +1167,7 @@ formal, computational definition of values has yet been proposed. We address
 this through a formal conceptual framework rooted in the social sciences, that
 provides a foundation for the systematic, integrated and interdisciplinary
 investigation into how human values can support designing ethical AI."
-1,0,Human Values in Multiagent Systems,"One of the major challenges we face with ethical AI today is developing
+4,0,Human Values in Multiagent Systems,"One of the major challenges we face with ethical AI today is developing
 computational systems whose reasoning and behaviour are provably aligned with
 human values. Human values, however, are notorious for being ambiguous,
 contradictory and ever-changing. In order to bridge this gap, and get us closer
@@ -1251,7 +1251,7 @@ demonstrates up to two-fold improvement in task satisfaction against
 conventional decoupled information gathering.The significance of our results is
 to introduce a new family of algorithmic problems that will enable important
 new practical applications of heterogeneous multi-robot systems."
-1,0,Achieving Realistic Cyclist Behavior in SUMO using the SimRa Dataset,"Increasing the modal share of bicycle traffic to reduce carbon emissions,
+4,0,Achieving Realistic Cyclist Behavior in SUMO using the SimRa Dataset,"Increasing the modal share of bicycle traffic to reduce carbon emissions,
 reduce urban car traffic, and to improve the health of citizens, requires a
 shift away from car-centric city planning. For this, traffic planners often
 rely on simulation tools such as SUMO which allow them to study the effects of
@@ -1304,7 +1304,7 @@ making to the best extent possible.
 including 1) conditions under which the statistical complexity of multi-agent
 decision making can be reduced to that of single-agent, and 2) conditions under
 which the so-called curse of multiple agents can be avoided."
-1,0,AI-Assisted Ethics? Considerations of AI Simulation for the Ethical Assessment and Design of Assistive Technologies,"Current ethical debates on the use of artificial intelligence (AI) in health
+4,0,AI-Assisted Ethics? Considerations of AI Simulation for the Ethical Assessment and Design of Assistive Technologies,"Current ethical debates on the use of artificial intelligence (AI) in health
 care treat AI as a product of technology in three ways: First, by assessing
 risks and potential benefits of currently developed AI-enabled products with
 ethical checklists; second, by proposing ex ante lists of ethical values seen
@@ -1347,7 +1347,7 @@ and a multi-agent warehouse. The simulation results demonstrate that our
 proposed method effectively addresses environment, action, and observation
 uncertainties. This indicates its potential for real-world applications,
 including the control of unmanned aerial vehicles (UAVs)."
-1,0,Guaranteed Evader Detection in Multi-Agent Search Tasks using Pincer Trajectories,"Assume that inside an initial planar area there are smart mobile evaders
+4,0,Guaranteed Evader Detection in Multi-Agent Search Tasks using Pincer Trajectories,"Assume that inside an initial planar area there are smart mobile evaders
 attempting to avoid detection by a team of sweeping searching agents. All
 sweepers detect evaders with fan-shaped sensors, modeling the field of view of
 real cameras. Detection of all evaders is guaranteed with cooperative sweeping
@@ -1394,7 +1394,7 @@ under the two~types of non-stochastic disturbances; both results are comparable
 to the state-of-the-art. Numerical examples on a real-world pollution
 monitoring application are provided to demonstrate the effectiveness of our
 algorithm."
-1,0,An Integrated System Dynamics and Discrete Event Supply Chain Simulation Framework for Supply Chain Resilience with Non-Stationary Pandemic Demand,"COVID-19 resulted in some of the largest supply chain disruptions in recent
+4,0,An Integrated System Dynamics and Discrete Event Supply Chain Simulation Framework for Supply Chain Resilience with Non-Stationary Pandemic Demand,"COVID-19 resulted in some of the largest supply chain disruptions in recent
 history. To mitigate the impact of future disruptions, we propose an integrated
 hybrid simulation framework to couple nonstationary demand signals from an
 event like COVID-19 with a model of an end-to-end supply chain. We first create
@@ -1488,7 +1488,7 @@ oblivious agents can lead to arbitrarily poor outcomes, and experimentally
 validate that our capability-aware algorithm avoids the anti-cooperative
 behavior of the naive approach in these toy settings as well as a more complex
 cooperative checkers environment."
-1,0,Ensoul: A framework for the creation of self organizing intelligent ultra low power systems (SOULS) through evolutionary enerstatic networks,"Ensoul is a framework proposed for the purpose of creating technologies that
+4,0,Ensoul: A framework for the creation of self organizing intelligent ultra low power systems (SOULS) through evolutionary enerstatic networks,"Ensoul is a framework proposed for the purpose of creating technologies that
 create more technologies through the combined use of networks, and nests, of
 energy homeostatic (enerstatic) loops and open-ended evolutionary techniques.
 Generative technologies developed by such an approach serve as both simple, yet
@@ -1529,7 +1529,7 @@ resource gathering, and allocation problem in a 1v1 scenario against other
 competitors. We use a centralized approach for training the RL agents, and
 report multiple design decisions along the process. We provide the source code
 of the project: https://github.com/roger-creus/centralized-control-lux."
-1,0,Focusing on Information Context for ITS using a Spatial Age of Information Model,"New technologies for sensing and communication act as enablers for
+4,0,Focusing on Information Context for ITS using a Spatial Age of Information Model,"New technologies for sensing and communication act as enablers for
 cooperative driving applications. Sensors are able to detect objects in the
 surrounding environment and information such as their current location is
 exchanged among vehicles. In order to cope with the vehicles' mobility, such
@@ -1645,7 +1645,7 @@ the solution as an entirely new problem. Computational experiments are
 conducted by varying the locations of the nominal problem and the payload
 capacity of an agent to demonstrate the effectiveness of utilizing the nominal
 search tree to handle perturbations for real-time implementation."
-1,1,Statistical Estimation for Covariance Structures with Tail Estimates using Nodewise Quantile Predictive Regression Models,"This paper considers the specification of covariance structures with tail
+4,1,Statistical Estimation for Covariance Structures with Tail Estimates using Nodewise Quantile Predictive Regression Models,"This paper considers the specification of covariance structures with tail
 estimates. We focus on two aspects: (i) the estimation of the VaR-CoVaR risk
 matrix in the case of larger number of time series observations than assets in
 a portfolio using quantile predictive regression models without assuming the
@@ -1656,7 +1656,7 @@ has no tuning parameters and is proved to be consistent under general sparsity
 assumptions. We illustrate the usefulness of our proposed methodology with
 numerical studies of real and simulated datasets when modelling systemic risk
 in a network."
-1,1,Context-Dependent Heterogeneous Preferences: A Comment on Barseghyan and Molinari (2023),"Barseghyan and Molinari (2023) give sufficient conditions for
+4,1,Context-Dependent Heterogeneous Preferences: A Comment on Barseghyan and Molinari (2023),"Barseghyan and Molinari (2023) give sufficient conditions for
 semi-nonparametric point identification of parameters of interest in a mixture
 model of decision-making under risk, allowing for unobserved heterogeneity in
 utility functions and limited consideration. A key assumption in the model is
@@ -1681,7 +1681,7 @@ we show that our heuristic model selection method, Leave-One-Period-Out,
 outperforms other baselines. We conclude with a set of considerations,
 robustness checks, and potential limitations for practitioners wishing to use
 our framework."
-1,1,Nowcasting with signature methods,"Key economic variables are often published with a significant delay of over a
+4,1,Nowcasting with signature methods,"Key economic variables are often published with a significant delay of over a
 month. The nowcasting literature has arisen to provide fast, reliable estimates
 of delayed economic indicators and is closely related to filtering methods in
 signal processing. The path signature is a mathematical object which captures
@@ -1699,7 +1699,7 @@ staff nowcasting model. Finally we demonstrate the flexibility of this method
 by applying regression on signatures to nowcast weekly fuel prices using daily
 data. Regression on signatures is an easy-to-apply approach that allows great
 flexibility for data with complex sampling patterns."
-1,1,Monitoring multicountry macroeconomic risk,"We propose a multicountry quantile factor augmeneted vector autoregression
+4,1,Monitoring multicountry macroeconomic risk,"We propose a multicountry quantile factor augmeneted vector autoregression
 (QFAVAR) to model heterogeneities both across countries and across
 characteristics of the distributions of macroeconomic time series. The presence
 of quantile factors allows for summarizing these two heterogeneities in a
@@ -1725,7 +1725,7 @@ require any tuning parameters. Under mild assumptions, we establish the
 cube-root consistency and show that the estimator asymptotically follows the
 scaled Chernoff's distribution. Moreover, we demonstrate that the estimator
 achieves the minimax optimal convergence rate."
-1,1,Designing Discontinuities,"Discontinuities can be fairly arbitrary but also cause a significant impact
+4,1,Designing Discontinuities,"Discontinuities can be fairly arbitrary but also cause a significant impact
 on outcomes in social systems. Indeed, their arbitrariness is why they have
 been used to infer causal relationships among variables in numerous settings.
 Regression discontinuity from econometrics assumes the existence of a
@@ -1743,7 +1743,7 @@ designing optimal time zone borders for counterfactuals of social capital,
 social mobility, and health. This is based on regression discontinuity analyses
 we perform on novel data, which may be of independent empirical interest in
 showing a causal relationship between sunset time and social capital."
-1,1,Hierarchical DCC-HEAVY Model for High-Dimensional Covariance Matrices,"We introduce a new HD DCC-HEAVY class of hierarchical-type factor models for
+4,1,Hierarchical DCC-HEAVY Model for High-Dimensional Covariance Matrices,"We introduce a new HD DCC-HEAVY class of hierarchical-type factor models for
 conditional covariance matrices of high-dimensional returns, employing the
 corresponding realized measures built from higher-frequency data. The modelling
 approach features sophisticated asymmetric dynamics in covariances coupled with
@@ -1769,7 +1769,7 @@ the bound in Hahn (1998), but conditional on all baseline covariates.
 Additionally, this efficiency bound is shown to be achievable under the same
 conditions as those used to derive the bound by using a cross-fitted
 Nadaraya-Watson kernel estimator to form nonparametric regression adjustments."
-1,1,The Newsvendor with Advice,"The standard newsvendor model assumes a stochastic demand distribution as
+4,1,The Newsvendor with Advice,"The standard newsvendor model assumes a stochastic demand distribution as
 well as costs for overages and underages. The celebrated critical fractile
 formula can be used to determine the optimal inventory levels. While the model
 has been leveraged in numerous applications, often in practice more
@@ -1793,7 +1793,7 @@ optimal minimax regret. The perforamce mataches the best possible had the
 accuracy been known in advance. We show the theory is predictive of practice on
 real data and demonstrtate emprically that our algorithm has a 14% to 19% lower
 cost than a clairvoyant who knows the quality of the advice beforehand."
-1,1,Semiparametrically Optimal Cointegration Test,"This paper aims to address the issue of semiparametric efficiency for
+4,1,Semiparametrically Optimal Cointegration Test,"This paper aims to address the issue of semiparametric efficiency for
 cointegration rank testing in finite-order vector autoregressive models, where
 the innovation distribution is considered an infinite-dimensional nuisance
 parameter. Our asymptotic analysis relies on Le Cam's theory of limit
@@ -1808,7 +1808,7 @@ through large-sample simulations and illustrate satisfactory size control and
 excellent power performance of our tests under small samples. In both cases
 with and without time trend, we show that a remarkable amount of additional
 power can be obtained from non-Gaussian distributions."
-1,1,Band-Pass Filtering with High-Dimensional Time Series,"The paper deals with the construction of a synthetic indicator of economic
+4,1,Band-Pass Filtering with High-Dimensional Time Series,"The paper deals with the construction of a synthetic indicator of economic
 growth, obtained by projecting a quarterly measure of aggregate economic
 activity, namely gross domestic product (GDP), into the space spanned by a
 finite number of smooth principal components, representative of the
@@ -1820,7 +1820,7 @@ the medium-to-long-run component of GDP growth. After discussing the
 theoretical properties of the indicator, we deal with the assessment of its
 reliability and predictive validity with reference to a panel of macroeconomic
 U.S. time series."
-1,1,The price elasticity of Gleevec in patients with Chronic Myeloid Leukemia enrolled in Medicare Part D: Evidence from a regression discontinuity design,"Objective To assess the price elasticity of branded imatinib in chronic
+4,1,The price elasticity of Gleevec in patients with Chronic Myeloid Leukemia enrolled in Medicare Part D: Evidence from a regression discontinuity design,"Objective To assess the price elasticity of branded imatinib in chronic
 myeloid leukemia (CML) patients on Medicare Part D to determine if high
 out-of-pocket payments (OOP) are driving the substantial levels of
 non-adherence observed in this population.
@@ -1846,7 +1846,7 @@ coinsurance-based benefit designs on Medicare-age patients with CML initiating
 branded imatinib. Results indicate that factors besides high OOP are driving
 the substantial non-adherence observed in this population and add to the
 growing literature on PED for specialty drugs."
-1,1,On the Time-Varying Structure of the Arbitrage Pricing Theory using the Japanese Sector Indices,"This paper is the first study to examine the time instability of the APT in
+4,1,On the Time-Varying Structure of the Arbitrage Pricing Theory using the Japanese Sector Indices,"This paper is the first study to examine the time instability of the APT in
 the Japanese stock market. In particular, we measure how changes in each risk
 factor affect the stock risk premiums to investigate the validity of the APT
 over time, applying the rolling window method to Fama and MacBeth's (1973)
@@ -1890,7 +1890,7 @@ as on the observation error in the options with strikes in the vicinity of the
 current spot price. Feasible inference is developed in a way that does not
 require prior knowledge of the source of estimation error that is
 asymptotically dominating."
-0,1,Risk management in the use of published statistical results for policy decisions,"Statistical inferential results generally come with a measure of reliability
+4,1,Risk management in the use of published statistical results for policy decisions,"Statistical inferential results generally come with a measure of reliability
 for decision-making purposes. For a policy implementer, the value of
 implementing published policy research depends critically upon this
 reliability. For a policy researcher, the value of policy implementation may
@@ -1961,7 +1961,7 @@ constrained-optimal population predictor for the target site. We illustrate our
 approach using a combined data set of five multi-site randomized controlled
 trials (RCTs) to evaluate the effect of conditional cash transfers on school
 attendance."
-1,1,Estimating Input Coefficients for Regional Input-Output Tables Using Deep Learning with Mixup,"An input-output table is an important data for analyzing the economic
+4,1,Estimating Input Coefficients for Regional Input-Output Tables Using Deep Learning with Mixup,"An input-output table is an important data for analyzing the economic
 situation of a region. Generally, the input-output table for each region
 (regional input-output table) in Japan is not always publicly available, so it
 is necessary to estimate the table. In particular, various methods have been
@@ -2046,7 +2046,7 @@ generalize these results to linear estimands via the Riesz representer. Our
 framework ``opens the black box'' on these increasingly popular estimators and
 provides important insights into estimation choices for augmented balancing
 weights."
-1,1,Assessing Text Mining and Technical Analyses on Forecasting Financial Time Series,"Forecasting financial time series (FTS) is an essential field in finance and
+4,1,Assessing Text Mining and Technical Analyses on Forecasting Financial Time Series,"Forecasting financial time series (FTS) is an essential field in finance and
 economics that anticipates market movements in financial markets. This paper
 investigates the accuracy of text mining and technical analyses in forecasting
 financial time series. It focuses on the S&P500 stock market index during the
@@ -2061,7 +2061,7 @@ prediction, as evidenced by its lower RMSE value, and has the potential to
 revolutionize financial analysis and prediction using financial news data.
 Keywords: ARIMA, BERT, FinBERT, Forecasting Financial Time Series, GARCH, LSTM,
 Technical Analysis, Text Mining JEL classifications: G4, C8"
-1,1,Convexity Not Required: Estimation of Smooth Moment Condition Models,"Generalized and Simulated Method of Moments are often used to estimate
+4,1,Convexity Not Required: Estimation of Smooth Moment Condition Models,"Generalized and Simulated Method of Moments are often used to estimate
 structural Economic models. Yet, it is commonly reported that optimization is
 challenging because the corresponding objective function is non-convex. For
 smooth problems, this paper shows that convexity is not required: under a
@@ -2075,7 +2075,7 @@ estimation because of non-convexity. A simple example illustrates a non-convex
 GMM estimation problem that satisfies the aforementioned rank condition.
 Empirical applications to random coefficient demand estimation and impulse
 response matching further illustrate the results."
-1,1,A universal model for the Lorenz curve with novel applications for datasets containing zeros and/or exhibiting extreme inequality,"Given that the existing parametric functional forms for the Lorenz curve do
+4,1,A universal model for the Lorenz curve with novel applications for datasets containing zeros and/or exhibiting extreme inequality,"Given that the existing parametric functional forms for the Lorenz curve do
 not fit all possible size distributions, a universal parametric functional form
 is introduced. By using the empirical data from different scientific
 disciplines and also the hypothetical data, this study shows that, the proposed
@@ -2106,7 +2106,7 @@ of the proposed DiD tools is evaluated through Monte Carlo experiments and an
 empirical application. As a by-product of our analysis, we present a new
 uniform stochastic expansion of the local polynomial multinomial logit
 estimator, which may be of independent interest."
-1,1,Estimation of Characteristics-based Quantile Factor Models,"This paper studies the estimation of characteristic-based quantile factor
+4,1,Estimation of Characteristics-based Quantile Factor Models,"This paper studies the estimation of characteristic-based quantile factor
 models where the factor loadings are unknown functions of observed individual
 characteristics while the idiosyncratic error terms are subject to conditional
 quantile restrictions. We propose a three-stage estimation procedure that is
@@ -2134,7 +2134,7 @@ estimators, we introduce both analytical and split-panel jackknife methods, and
 confirm their good performance in finite samples using Monte Carlo simulations.
 An empirical application utilizes the proposed method to study the arbitrage
 behaviour of nonfinancial firms across different security markets."
-1,1,Enhanced multilayer perceptron with feature selection and grid search for travel mode choice prediction,"Accurate and reliable prediction of individual travel mode choices is crucial
+4,1,Enhanced multilayer perceptron with feature selection and grid search for travel mode choice prediction,"Accurate and reliable prediction of individual travel mode choices is crucial
 for developing multi-mode urban transportation systems, conducting
 transportation planning and formulating traffic demand management strategies.
 Traditional discrete choice models have dominated the modelling methods for
@@ -2201,7 +2201,7 @@ potential outcomes given covariates. To avoid finite-sample inefficiencies of
 plug-in estimates, we further provide an end-to-end procedure for learning the
 optimal max-min and max-min gain policies that does not require the separate
 estimation of nuisance parameters."
-1,1,The Impact of Industrial Zone:Evidence from China's National High-tech Zone Policy,"Based on the statistical yearbook data and related patent data of 287 cities
+4,1,The Impact of Industrial Zone:Evidence from China's National High-tech Zone Policy,"Based on the statistical yearbook data and related patent data of 287 cities
 in China from 2000 to 2020, this study regards the policy of establishing the
 national high-tech zones as a quasi-natural experiment. Using this experiment,
 this study firstly estimated the treatment effect of the policy and checked the
@@ -2212,7 +2212,7 @@ It shows that the possible mechanism of the policy is financial support,
 industrial agglomeration of secondary industry and the spillovers. In the end,
 this study examined the spillovers deeply and showed the distribution of
 spillover effect."
-1,1,A hybrid model for day-ahead electricity price forecasting: Combining fundamental and stochastic modelling,"The accurate prediction of short-term electricity prices is vital for
+4,1,A hybrid model for day-ahead electricity price forecasting: Combining fundamental and stochastic modelling,"The accurate prediction of short-term electricity prices is vital for
 effective trading strategies, power plant scheduling, profit maximisation and
 efficient system operation. However, uncertainties in supply and demand make
 such predictions challenging. We propose a hybrid model that combines a
@@ -2229,7 +2229,7 @@ valuable because they account for market uncertainty, facilitating informed
 decision-making and risk management. Our model delivers state-of-the-art
 results, helping market participants to make informed decisions and operate
 their systems more efficiently."
-1,1,Club coefficients in the UEFA Champions League: Time for the shift to an Elo-based formula,"One of the most popular club football tournaments, the UEFA Champions League,
+4,1,Club coefficients in the UEFA Champions League: Time for the shift to an Elo-based formula,"One of the most popular club football tournaments, the UEFA Champions League,
 will see a fundamental reform from the 2024/25 season: the traditional group
 stage will be replaced by one league where each of the 36 teams plays eight
 matches. To guarantee that the opponents of the clubs are of the same strength
@@ -2265,7 +2265,7 @@ theory has two key features: (1) it ensures the exact asymptotic size under the
 null hypothesis, regardless of whether the number of covariates is fixed or
 diverges at most at the rate of the sample size, and (2) it guarantees weak
 efficiency improvement over the ATE estimator with no adjustments."
-1,1,Coarsened Bayesian VARs -- Correcting BVARs for Incorrect Specification,"Model mis-specification in multivariate econometric models can strongly
+4,1,Coarsened Bayesian VARs -- Correcting BVARs for Incorrect Specification,"Model mis-specification in multivariate econometric models can strongly
 influence quantities of interest such as structural parameters, forecast
 distributions or responses to structural shocks, even more so if higher-order
 forecasts or responses are considered, due to parameter convolution. We propose
@@ -2279,14 +2279,14 @@ simple to implement and estimation is fast. The resulting cBVAR performs well
 in simulations for several types of mis-specification. Applied to US data,
 cBVARs improve point and density forecasts compared to standard BVARs, and lead
 to milder but more persistent negative effects of uncertainty shocks on output."
-1,1,Penalized Likelihood Inference with Survey Data,"This paper extends three Lasso inferential methods, Debiased Lasso,
+4,1,Penalized Likelihood Inference with Survey Data,"This paper extends three Lasso inferential methods, Debiased Lasso,
 $C(\alpha)$ and Selective Inference to a survey environment. We establish the
 asymptotic validity of the inference procedures in generalized linear models
 with survey weights and/or heteroskedasticity. Moreover, we generalize the
 methods to inference on nonlinear parameter functions e.g. the average marginal
 effect in survey logit models. We illustrate the effectiveness of the approach
 in simulated data and Canadian Internet Use Survey 2020 data."
-1,1,Gini-stable Lorenz curves and their relation to the generalised Pareto distribution,"We study an iterative discrete information production process (IPP) where we
+4,1,Gini-stable Lorenz curves and their relation to the generalised Pareto distribution,"We study an iterative discrete information production process (IPP) where we
 can extend ordered normalised vectors by new elements based on a simple affine
 transformation, while preserving the predefined level of inequality, G, as
 measured by the Gini index. Then, we derive the family of Lorenz curves of the
@@ -2300,7 +2300,7 @@ families, namely: the Pareto Type II, exponential, and scaled beta ones. The
 family is not only ordered with respect to the parameter G, but also, thanks to
 our derivations, has a nice underlying interpretation. Our result may thus shed
 new light on the genesis of this family of distributions."
-1,1,Equivalence of inequality indices: Three dimensions of impact revisited,"Inequality is an inherent part of our lives: we see it in the distribution of
+4,1,Equivalence of inequality indices: Three dimensions of impact revisited,"Inequality is an inherent part of our lives: we see it in the distribution of
 incomes, talents, resources, and citations, amongst many others. Its intensity
 varies across different environments: from relatively evenly distributed ones,
 to where a small group of stakeholders controls the majority of the available
@@ -2336,7 +2336,7 @@ The resulting optimal GMM estimator is equivalent to a feasible GLS with
 estimated weight matrix. I also propose an optimal GMM variance-covariance
 estimator for GALS to account for any remaining heteroscedasticity in the
 residuals."
-1,1,Detection and Estimation of Structural Breaks in High-Dimensional Functional Time Series,"In this paper, we consider detecting and estimating breaks in heterogeneous
+4,1,Detection and Estimation of Structural Breaks in High-Dimensional Functional Time Series,"In this paper, we consider detecting and estimating breaks in heterogeneous
 mean functions of high-dimensional functional time series which are allowed to
 be cross-sectionally correlated and temporally dependent. A new test statistic
 combining the functional CUSUM statistic and power enhancement component is
@@ -2352,7 +2352,7 @@ group structure can subsequently improve the convergence property of the
 post-clustering break point estimate. Monte-Carlo simulation studies and
 empirical applications show that the proposed estimation and testing techniques
 have satisfactory performance in finite samples."
-1,1,Predictive Incrementality by Experimentation (PIE) for Ad Measurement,"We present a novel approach to causal measurement for advertising, namely to
+4,1,Predictive Incrementality by Experimentation (PIE) for Ad Measurement,"We present a novel approach to causal measurement for advertising, namely to
 use exogenous variation in advertising exposure (RCTs) for a subset of ad
 campaigns to build a model that can predict the causal effect of ad campaigns
 that were run without RCTs. This approach -- Predictive Incrementality by
@@ -2374,7 +2374,7 @@ compared to RCTs for only 6% of upper-funnel, 7% of mid-funnel, and 13% of
 lower-funnel outcomes. We conclude that PIE could enable advertising platforms
 to scale causal ad measurement by extrapolating from a limited number of RCTs
 to a large set of non-experimental ad campaigns."
-1,1,GDP nowcasting with artificial neural networks: How much does long-term memory matter?,"In our study, we apply different statistical models to nowcast quarterly GDP
+4,1,GDP nowcasting with artificial neural networks: How much does long-term memory matter?,"In our study, we apply different statistical models to nowcast quarterly GDP
 growth for the US economy. Using the monthly FRED-MD database, we compare the
 nowcasting performance of the dynamic factor model (DFM) and four artificial
 neural networks (ANNs): the multilayer perceptron (MLP), the one-dimensional
@@ -2392,7 +2392,7 @@ they seem to weaken their generalization capability. Our results show that 1D
 CNN, with the same parameters, generates accurate nowcasts in both of our
 evaluation periods. Consequently, first in the literature, we propose the use
 of this specific neural network architecture for economic nowcasting."
-1,1,Financial Time Series Forecasting using CNN and Transformer,"Time series forecasting is important across various domains for
+4,1,Financial Time Series Forecasting using CNN and Transformer,"Time series forecasting is important across various domains for
 decision-making. In particular, financial time series such as stock prices can
 be hard to predict as it is difficult to model short-term and long-term
 temporal dependencies between data points. Convolutional Neural Networks (CNN)
@@ -2434,7 +2434,7 @@ the restriction of the parameter space to the subspace satisfying the equality
 constraints, we provide a series of results on the dimension of this subspace.
 Finally, we demonstrate the advantages of our approach by estimating a dynamic
 model of the U.K. fast food market."
-1,1,"Individual Welfare Analysis: Random Quasilinear Utility, Independence, and Confidence Bounds","We introduce a novel framework for individual-level welfare analysis. It
+4,1,"Individual Welfare Analysis: Random Quasilinear Utility, Independence, and Confidence Bounds","We introduce a novel framework for individual-level welfare analysis. It
 builds on a parametric model for continuous demand with a quasilinear utility
 function, allowing for unobserved individual-product-level preference shocks.
 We obtain bounds on the individual-level consumer welfare loss at any
@@ -2444,7 +2444,7 @@ restriction. This confidence set is computationally simple, robust to weak
 instruments and nonlinearity, and may have applications beyond welfare
 analysis. Monte Carlo simulations and two empirical applications on gasoline
 and food demand demonstrate the effectiveness of our method."
-1,1,Torch-Choice: A PyTorch Package for Large-Scale Choice Modelling with Python,"The $\texttt{torch-choice}$ is an open-source library for flexible, fast
+4,1,Torch-Choice: A PyTorch Package for Large-Scale Choice Modelling with Python,"The $\texttt{torch-choice}$ is an open-source library for flexible, fast
 choice modeling with Python and PyTorch. $\texttt{torch-choice}$ provides a
 $\texttt{ChoiceDataset}$ data structure to manage databases flexibly and
 memory-efficiently. The paper demonstrates constructing a
@@ -2488,7 +2488,7 @@ treatment effect heterogeneity does not seem to be completely accounted for by
 baseline characteristics. For those outcomes, researchers could potentially try
 to collect more baseline characteristics to inspect the remaining treatment
 effect heterogeneity, and potentially, improve treatment targeting."
-1,1,Artificial neural networks and time series of counts: A class of nonlinear INGARCH models,"Time series of counts are frequently analyzed using generalized
+4,1,Artificial neural networks and time series of counts: A class of nonlinear INGARCH models,"Time series of counts are frequently analyzed using generalized
 integer-valued autoregressive models with conditional heteroskedasticity
 (INGARCH). These models employ response functions to map a vector of past
 observations and past conditional expectations to the conditional expectation
@@ -2501,7 +2501,7 @@ effects and confidence intervals are given. The empirical analysis of time
 series of bounded and unbounded counts reveals that the neural INGARCH models
 are able to outperform reasonable degenerate competitor models in terms of the
 information loss."
-1,1,Testing and Identifying Substitution and Complementarity Patterns,"This paper studies semiparametric identification of substitution and
+4,1,Testing and Identifying Substitution and Complementarity Patterns,"This paper studies semiparametric identification of substitution and
 complementarity patterns between two goods using a panel multinomial choice
 model with bundles. The model allows the two goods to be either substitutes or
 complements and admits heterogeneous complementarity through observed
@@ -2527,7 +2527,7 @@ variance estimators, and demonstrate via simulations the good finite-sample
 performances of our proposed estimation and inference procedures. In
 particular, we find that the discretization-based estimator performs remarkably
 well in finite samples, while being very simple and fast to compute."
-1,1,Inference on eigenvectors of non-symmetric matrices,"This paper argues that the symmetrisability condition in Tyler (1981) is not
+4,1,Inference on eigenvectors of non-symmetric matrices,"This paper argues that the symmetrisability condition in Tyler (1981) is not
 necessary to establish asymptotic inference procedures for eigenvectors. We
 establish distribution theory for a Wald and t-test for full-vector and
 individual coefficient hypotheses, respectively. Our test statistics originate
@@ -2538,7 +2538,7 @@ analytic perturbation theory of Sun (1991) is a useful tool in multivariate
 statistics and are of independent interest. As an application, we define
 confidence sets for Bonacich centralities estimated from adjacency matrices
 induced by directed graphs."
-1,1,Under-Identification of Structural Models Based on Timing and Information Set Assumptions,"We revisit identification based on timing and information set assumptions in
+4,1,Under-Identification of Structural Models Based on Timing and Information Set Assumptions,"We revisit identification based on timing and information set assumptions in
 structural models, which have been used in the context of production functions,
 demand equations, and hedonic pricing models (e.g. Olley and Pakes (1996),
 Blundell and Bond (2000)). First, we demonstrate a general under-identification
@@ -2551,7 +2551,7 @@ disappears in models under stronger timing assumptions. We then propose
 possible solutions in the simple setting by enforcing an assumed sign
 restriction and conclude by using lessons from our basic identification
 approach to propose more general practical advice for empirical researchers."
-1,1,Sensitivity Analysis in Unconditional Quantile Effects,"This paper proposes a framework to analyze the effects of counterfactual
+4,1,Sensitivity Analysis in Unconditional Quantile Effects,"This paper proposes a framework to analyze the effects of counterfactual
 policies on the unconditional quantiles of an outcome variable. For a given
 counterfactual policy, we obtain identified sets for the effect of both
 marginal and global changes in the proportion of treated individuals. To
@@ -2634,7 +2634,7 @@ implemented using a computationally attractive exchangeable bootstrap
 procedure. We illustrate our methods with examples and we also provide a small
 simulation study. The development of formal results is made possible by some
 technical results that may be of independent interest."
-1,1,Sequential Cauchy Combination Test for Multiple Testing Problems with Financial Applications,"We introduce a simple tool to control for false discoveries and identify
+4,1,Sequential Cauchy Combination Test for Multiple Testing Problems with Financial Applications,"We introduce a simple tool to control for false discoveries and identify
 individual signals when there are many tests, the test statistics are
 correlated, and the signals are potentially sparse. The tool applies the Cauchy
 combination test recursively on a sequence of expanding subsets of $p$-values
@@ -2662,7 +2662,7 @@ interaction between the stock and oil market. The results suggest that what is
 usually identified as oil-specific demand shocks can actually be attributed to
 information shocks extracted from the stock market, which explain about 30-40%
 of the oil price variation."
-1,1,Functional-Coefficient Quantile Regression for Panel Data with Latent Group Structure,"This paper considers estimating functional-coefficient models in panel
+4,1,Functional-Coefficient Quantile Regression for Panel Data with Latent Group Structure,"This paper considers estimating functional-coefficient models in panel
 quantile regression with individual effects, allowing the cross-sectional and
 temporal dependence for large panel observations. A latent group structure is
 imposed on the heterogenous quantile regression models so that the number of
@@ -2679,7 +2679,7 @@ comparable to that in the literature. The developed methodologies and theory
 are verified through a simulation study and showcased with an application to
 house price data from UK local authority districts, which reveals different
 homogeneity structures at different quantile levels."
-1,1,sparseDFM: An R Package to Estimate Dynamic Factor Models with Sparse Loadings,"sparseDFM is an R package for the implementation of popular estimation
+4,1,sparseDFM: An R Package to Estimate Dynamic Factor Models with Sparse Loadings,"sparseDFM is an R package for the implementation of popular estimation
 methods for dynamic factor models (DFMs) including the novel Sparse DFM
 approach of Mosley et al. (2023). The Sparse DFM ameliorates interpretability
 issues of factor structure in classic DFMs by constraining the loading matrices
@@ -2693,7 +2693,7 @@ study focuses on summarising the structure of a small subset of quarterly CPI
 (consumer price inflation) index data for the UK, while the second applies the
 package onto a large-scale set of monthly time series for the purpose of
 nowcasting nine of the main trade commodities the UK exports worldwide."
-1,1,Forecasting Large Realized Covariance Matrices: The Benefits of Factor Models and Shrinkage,"We propose a model to forecast large realized covariance matrices of returns,
+4,1,Forecasting Large Realized Covariance Matrices: The Benefits of Factor Models and Shrinkage,"We propose a model to forecast large realized covariance matrices of returns,
 applying it to the constituents of the S\&P 500 daily. To address the curse of
 dimensionality, we decompose the return covariance matrix using standard
 firm-level factors (e.g., size, value, and profitability) and use sectoral
@@ -2702,7 +2702,7 @@ estimated using vector heterogeneous autoregressive (VHAR) models with the
 least absolute shrinkage and selection operator (LASSO). Our methodology
 improves forecasting precision relative to standard benchmarks and leads to
 better estimates of minimum variance portfolios."
-1,1,"Don't (fully) exclude me, it's not necessary! Identification with semi-IVs","This paper proposes a novel approach to identify models with a discrete
+4,1,"Don't (fully) exclude me, it's not necessary! Identification with semi-IVs","This paper proposes a novel approach to identify models with a discrete
 endogenous variable, that I study in the general context of nonseparable models
 with continuous potential outcomes. I show that nonparametric identification of
 the potential outcome and selection equations, and thus of the individual
@@ -2717,7 +2717,7 @@ finding semi-IVs with a larger support and stronger relevance assumptions.
 Since, in empirical work, the main obstacle for finding a valid IV is often the
 full exclusion restriction, tackling the endogeneity problem with semi-IVs
 instead should be an attractive alternative."
-1,1,Quasi Maximum Likelihood Estimation of High-Dimensional Factor Models: A Critical Review,"We review Quasi Maximum Likelihood estimation of factor models for
+4,1,Quasi Maximum Likelihood Estimation of High-Dimensional Factor Models: A Critical Review,"We review Quasi Maximum Likelihood estimation of factor models for
 high-dimensional panels of time series. We consider two cases: (1) estimation
 when no dynamic model for the factors is specified (Bai and Li, 2016); (2)
 estimation based on the Kalman smoother and the Expectation Maximization
@@ -2774,7 +2774,7 @@ their relevance for models defined by moment restrictions with possibly
 different conditioning variables, and we characterize orthogonal moments for
 heterogenous parameters in treatment effects, for sample selection models, and
 for popular models of demand of differentiated products."
-1,1,How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice Based on Over 60 Replicated Studies,"Instrumental variable (IV) strategies are widely used in political science to
+4,1,How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice Based on Over 60 Replicated Studies,"Instrumental variable (IV) strategies are widely used in political science to
 establish causal relationships. However, the identifying assumptions required
 by an IV design are demanding, and it remains challenging for researchers to
 assess their validity. In this paper, we replicate 67 papers published in three
@@ -2790,7 +2790,7 @@ correlated with the strength of the IVs in studies where the IVs are not
 experimentally generated, suggesting potential violations of unconfoundedness
 or the exclusion restriction. To help researchers avoid these pitfalls, we
 provide a checklist for better practice."
-1,1,Network log-ARCH models for forecasting stock market volatility,"This paper presents a novel dynamic network autoregressive conditional
+4,1,Network log-ARCH models for forecasting stock market volatility,"This paper presents a novel dynamic network autoregressive conditional
 heteroscedasticity (ARCH) model based on spatiotemporal ARCH models to forecast
 volatility in the US stock market. To improve the forecasting accuracy, the
 model integrates temporally lagged volatility information and information from
@@ -2827,7 +2827,7 @@ structure. In addition, we extend the results to the case when the regressor of
 interest is assigned randomly at a group level, such as in randomized control
 trials with treatment assignment determined at a group (e.g., school/village)
 level."
-1,1,Inference of Grouped Time-Varying Network Vector Autoregression Models,"This paper considers statistical inference of time-varying network vector
+4,1,Inference of Grouped Time-Varying Network Vector Autoregression Models,"This paper considers statistical inference of time-varying network vector
 autoregression models for large-scale time series. A latent group structure is
 imposed on the heterogeneous and node-specific time-varying momentum and
 network spillover effects so that the number of unknown time-varying
@@ -2845,7 +2845,7 @@ constructed via a kernel weighted quadratic form under the null and alternative
 hypotheses. Numerical studies including Monte-Carlo simulation and an empirical
 application to the global trade flow data are presented to examine the
 finite-sample performance of the developed model and methodology."
-1,1,Multivariate Probabilistic CRPS Learning with an Application to Day-Ahead Electricity Prices,"This paper presents a new method for combining (or aggregating or ensembling)
+4,1,Multivariate Probabilistic CRPS Learning with an Application to Day-Ahead Electricity Prices,"This paper presents a new method for combining (or aggregating or ensembling)
 multivariate probabilistic forecasts, taking into account dependencies between
 quantiles and covariates through a smoothing procedure that allows for online
 learning. Two smoothing methods are discussed: dimensionality reduction using
@@ -2861,7 +2861,7 @@ combination in terms of continuous ranked probability score (CRPS). We discuss
 the temporal evolution of the weights and hyperparameters and present the
 results of reduced versions of the preferred model. A fast C++ implementation
 of all discussed methods is provided in the R-Package profoc."
-1,1,Bootstrap based asymptotic refinements for high-dimensional nonlinear models,"We consider penalized extremum estimation of a high-dimensional, possibly
+4,1,Bootstrap based asymptotic refinements for high-dimensional nonlinear models,"We consider penalized extremum estimation of a high-dimensional, possibly
 nonlinear model that is sparse in the sense that most of its parameters are
 zero but some are not. We use the SCAD penalty function, which provides model
 selection consistent and oracle efficient estimates under suitable conditions.
@@ -2883,7 +2883,7 @@ with known $\sigma^2$. Suppose $\theta \sim G_0$, where the prior $G_0$ has
 zero mean and unit variance. Let $G_1$ be a possibly misspecified prior with
 zero mean and unit variance. We show that the squared error Bayes risk of the
 posterior mean under $G_1$ is bounded, uniformly over $G_0, G_1, \sigma^2 > 0$."
-1,1,Identifying an Earnings Process With Dependent Contemporaneous Income Shocks,"This paper proposes a novel approach for identifying coefficients in an
+4,1,Identifying an Earnings Process With Dependent Contemporaneous Income Shocks,"This paper proposes a novel approach for identifying coefficients in an
 earnings dynamics model with arbitrarily dependent contemporaneous income
 shocks. Traditional methods relying on second moments fail to identify these
 coefficients, emphasizing the need for nongaussianity assumptions that capture
@@ -2891,7 +2891,7 @@ information from higher moments. Our results contribute to the literature on
 earnings dynamics by allowing models of earnings to have, for example, the
 permanent income shock of a job change to be linked to the contemporaneous
 transitory income shock of a relocation bonus."
-1,1,Identification- and many instrument-robust inference via invariant moment conditions,"Identification-robust hypothesis tests are commonly based on the continuous
+4,1,Identification- and many instrument-robust inference via invariant moment conditions,"Identification-robust hypothesis tests are commonly based on the continuous
 updating objective function or its score. When the number of moment conditions
 grows proportionally with the sample size, the large-dimensional weighting
 matrix prohibits the use of conventional asymptotic approximations and the
@@ -2905,7 +2905,7 @@ appear in the variance are negative. Revisiting a study on the elasticity of
 substitution between immigrant and native workers where the number of
 instruments is over a quarter of the sample size, the many instrument-robust
 approximation indeed leads to substantially narrower confidence intervals."
-1,1,Tight Non-asymptotic Inference via Sub-Gaussian Intrinsic Moment Norm,"In non-asymptotic statistical inferences, variance-type parameters of
+4,1,Tight Non-asymptotic Inference via Sub-Gaussian Intrinsic Moment Norm,"In non-asymptotic statistical inferences, variance-type parameters of
 sub-Gaussian distributions play a crucial role. However, direct estimation of
 these parameters based on the empirical moment generating function (MGF) is
 infeasible. To this end, we recommend using a sub-Gaussian intrinsic moment
@@ -2917,7 +2917,7 @@ tighter Hoeffding's sub-Gaussian concentration inequalities. In practice,
 finite sample size by the sub-Gaussian plot}. Intrinsic moment norm can be
 robustly estimated via a simple plug-in approach. Our theoretical results are
 applied to non-asymptotic analysis, including the multi-armed bandit."
-1,1,Inflation forecasting with attention based transformer neural networks,"Inflation is a major determinant for allocation decisions and its forecast is
+4,1,Inflation forecasting with attention based transformer neural networks,"Inflation is a major determinant for allocation decisions and its forecast is
 a fundamental aim of governments and central banks. However, forecasting
 inflation is not a trivial task, as its prediction relies on low frequency,
 highly fluctuating data with unclear explanatory variables. While classical
@@ -2946,7 +2946,7 @@ intergenerational income mobility under two counterfactual scenarios, we find
 that while providing some college education to all children is unlikely to
 promote mobility, offering a college degree to children from less educated
 families can significantly reduce income persistence across generations."
-1,1,Distributional Vector Autoregression: Eliciting Macro and Financial Dependence,"Vector autoregression is an essential tool in empirical macroeconomics and
+4,1,Distributional Vector Autoregression: Eliciting Macro and Financial Dependence,"Vector autoregression is an essential tool in empirical macroeconomics and
 finance for understanding the dynamic interdependencies among multivariate time
 series. In this study, we expand the scope of vector autoregression by
 incorporating a multivariate distributional regression framework and
@@ -2976,7 +2976,7 @@ approach should directly extend to the finite horizon case. Our work combines
 techniques from semi-parametric inference and $g$-estimation, together with an
 appropriate triangular array central limit theorem, as well as a novel analysis
 of the asymptotic influence and asymptotic bias of softmax approximations."
-1,1,Identification of Ex Ante Returns Using Elicited Choice Probabilities,"This paper studies the identification of perceived ex ante returns in the
+4,1,Identification of Ex Ante Returns Using Elicited Choice Probabilities,"This paper studies the identification of perceived ex ante returns in the
 context of binary human capital investment decisions. The environment is
 characterised by uncertainty about future outcomes, with some uncertainty being
 resolved over time. In this context, each individual holds a probability
@@ -2986,7 +2986,7 @@ several individual-specific distribution parameters, which are crucial for
 counterfactual policy analyses. The empirical application estimates perceived
 returns on overstaying for Afghan asylum seekers in Germany and evaluates the
 effect of assisted voluntary return policies."
-1,1,EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference,"Despite increasing popularity in empirical studies, the integration of
+4,1,EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference,"Despite increasing popularity in empirical studies, the integration of
 machine learning generated variables into regression models for statistical
 inference suffers from the measurement error problem, which can bias estimation
 and threaten the validity of inferences. In this paper, we develop a novel
@@ -3008,7 +3008,7 @@ estimators. The proposed estimator is shown to be consistent and asymptotically
 normal. The performance of the estimator with high-dimensional controls is
 illustrated with numerical simulation and an empirical application that
 examines the effect of 401(k) eligibility on savings."
-1,1,"Deterministic, quenched or annealed? Differences in the parameter estimation of heterogeneous network models","Analysing weighted networks requires modelling the binary and weighted
+4,1,"Deterministic, quenched or annealed? Differences in the parameter estimation of heterogeneous network models","Analysing weighted networks requires modelling the binary and weighted
 properties simultaneously. We highlight three approaches for estimating the
 parameters responsible for them: econometric techniques treating topology as
 deterministic and statistical techniques either ensemble-averaging parameters
@@ -3016,7 +3016,7 @@ or maximising an averaged likelihood over the topological randomness. In
 homogeneous models, equivalence holds; in heterogeneous network models, the
 local disorder breaks it, in a way reminiscent of the difference between
 `quenched' and `annealed' averages in the physics of disordered systems."
-1,1,Fast Forecasting of Unstable Data Streams for On-Demand Service Platforms,"On-demand service platforms face a challenging problem of forecasting a large
+4,1,Fast Forecasting of Unstable Data Streams for On-Demand Service Platforms,"On-demand service platforms face a challenging problem of forecasting a large
 collection of high-frequency regional demand data streams that exhibit
 instabilities. This paper develops a novel forecast framework that is fast and
 scalable, and automatically assesses changing environments without human
@@ -3027,7 +3027,7 @@ across all geographical regions, loss functions, and both pre- and post-Covid
 periods. We translate forecast gains to economic impacts for this on-demand
 service platform by computing financial gains and reductions in computing
 costs."
-1,1,Constructing High Frequency Economic Indicators by Imputation,"Monthly and weekly economic indicators are often taken to be the largest
+4,1,Constructing High Frequency Economic Indicators by Imputation,"Monthly and weekly economic indicators are often taken to be the largest
 common factor estimated from high and low frequency data, either separately or
 jointly. To incorporate mixed frequency information without directly modeling
 them, we target a low frequency diffusion index that is already available, and
@@ -3056,14 +3056,14 @@ nonparametric and regularized/machine learning classifiers in the first
 (classification) step. The result is generalized to cover bounds on the values
 of linear programming problems and best linear predictor of intersection
 bounds."
-1,1,$21^{st}$ Century Statistical Disclosure Limitation: Motivations and Challenges,"This chapter examines the motivations and imperatives for modernizing how
+4,1,$21^{st}$ Century Statistical Disclosure Limitation: Motivations and Challenges,"This chapter examines the motivations and imperatives for modernizing how
 statistical agencies approach statistical disclosure limitation for official
 data product releases. It discusses the implications for agencies' broader data
 governance and decision-making, and it identifies challenges that agencies will
 likely face along the way. In conclusion, the chapter proposes some principles
 and best practices that we believe can help guide agencies in navigating the
 transformation of their confidentiality programs."
-1,1,Generalized Cumulative Shrinkage Process Priors with Applications to Sparse Bayesian Factor Analysis,"The paper discusses shrinkage priors which impose increasing shrinkage in a
+4,1,Generalized Cumulative Shrinkage Process Priors with Applications to Sparse Bayesian Factor Analysis,"The paper discusses shrinkage priors which impose increasing shrinkage in a
 sequence of parameters. We review the cumulative shrinkage process (CUSP) prior
 of Legramanti et al. (2020), which is a spike-and-slab shrinkage prior where
 the spike probability is stochastically increasing and constructed from the
@@ -3094,7 +3094,7 @@ of utility maximizers and deliver a characterization of rationality for the two
 good case. Using the UK Household Budget Survey, we apply our methodology to
 estimate the welfare impact of a 10 percent transport price increase and find
 that the RA approach understates the welfare impact by 27 percent."
-1,1,Disentangling Structural Breaks in High Dimensional Factor Models,"We disentangle structural breaks in dynamic factor models by establishing a
+4,1,Disentangling Structural Breaks in High Dimensional Factor Models,"We disentangle structural breaks in dynamic factor models by establishing a
 projection based equivalent representation theorem which decomposes any break
 into a rotational change and orthogonal shift. Our decomposition leads to the
 natural interpretation of these changes as a change in the factor variance and
@@ -3134,7 +3134,7 @@ if and only if the toric ideal $I_T$ is a complete intersection ideal with
 exactly two Betti degrees. Finally, we provide a construction to produce
 infinitely many strongly robust ideals with bouquet ideal the ideal of a
 monomial curve and show that they are all produced this way."
-3,2,Higher nearby cycles and central sheaves on affine flag varieties,"In this paper we generalize and study a notion of (unipotent) nearby cycles
+4,2,Higher nearby cycles and central sheaves on affine flag varieties,"In this paper we generalize and study a notion of (unipotent) nearby cycles
 over a higher dimensional base based on Be\u{i}linson's description of
 unipotent nearby cycles, following an idea of Gaitsgory. This generalization,
 in the setting of affine Grassmannians, is required in recent work of
@@ -3245,7 +3245,7 @@ be a minimal surface of general type: its analysis is developed by exploiting
 the nature of this surface as a degeneracy locus of a symmetric vector bundle
 map and by describing an unramified double cover, which is constructed in a
 more general setting."
-1,2,Two-step Newton's method for deflation-one singular zeros of analytic systems,"We propose a two-step Newton's method for refining an approximation of a
+4,2,Two-step Newton's method for deflation-one singular zeros of analytic systems,"We propose a two-step Newton's method for refining an approximation of a
 singular zero whose deflation process terminates after one step, also known as
 a deflation-one singularity. Given an isolated singular zero of a square
 analytic system, our algorithm exploits an invertible linear operator obtained
@@ -3278,7 +3278,7 @@ theory fundamentally and quantitatively more precise than Mochizuki's approach.
 In the appendix, I provide a discussion of the proofs of the geometric Szpiro
 Conjectures due \cite{bogomolov00} and \cite{zhang01} from the point of view
 this paper."
-3,2,The cyclic Deligne conjecture and Calabi-Yau structures,"The Deligne conjecture (many times a theorem) endows Hochschild cochains of a
+4,2,The cyclic Deligne conjecture and Calabi-Yau structures,"The Deligne conjecture (many times a theorem) endows Hochschild cochains of a
 linear category with the structure of an $E_2$-algebra, that is, of an algebra
 over the little 2-disks operad. In this paper, we prove the cyclic Deligne
 conjecture, stating that for a linear category equipped with a Calabi-Yau
@@ -3530,7 +3530,7 @@ groups of the k-1-motive $G^{\vee}$. We also obtain a duality theorem for the
 second cohomology group of an arbitrary k-1-motive. These results have
 applications (to be discussed elsewhere) to certain extensions of
 Lichtenbaum-van Hamel duality to a class of non-smooth proper k-varieties."
-1,2,Algebraic Winding Numbers,"In this paper we study in detail the properties of the algebraic winding
+3,2,Algebraic Winding Numbers,"In this paper we study in detail the properties of the algebraic winding
 number proposed in a paper by M. Eisermann with respect to complex root
 counting in rectangles. We also propose a new algebraic winding number which
 computes the number of complex roots of a polynomial in a rectangle under no
@@ -3554,7 +3554,7 @@ is a proof of a remarkable conjecture by Hans Jockers and Peter Mayr.
 Calabi--Yau threefolds. A heuristic derivation of the relation between QK and
 GV via the virtual Clemens conjecture and the multiple cover formula is also
 given."
-3,2,Analytic and algebraic integrability of quasi-smooth derived foliations,"We study integrability results for derived foliations in the holomorphic
+4,2,Analytic and algebraic integrability of quasi-smooth derived foliations,"We study integrability results for derived foliations in the holomorphic
 context. We prove a global integrability theorem by flat groupoids, as well as
 global algebraic integrability in the presence of a compact leaf with finite
 holonomy groups. These results are generalization to the derived (and thus
@@ -3610,7 +3610,7 @@ algebraic K-theory via the trace map."
 surfaces of fixed degree whose singularities are at most rational double
 points. We also compute the integral Picard group of the stack of
 quasi-polarized K3 surfaces, and of the stacky period domain."
-3,2,Dimension results for extremal-generic polynomial systems over complete toric varieties,"We study polynomial systems with prescribed monomial supports in the Cox
+4,2,Dimension results for extremal-generic polynomial systems over complete toric varieties,"We study polynomial systems with prescribed monomial supports in the Cox
 rings of toric varieties built from complete polyhedral fans. We present
 combinatorial formulas for the dimensions of their associated subvarieties
 under genericity assumptions on the coefficients of the polynomials. Using
@@ -3623,7 +3623,7 @@ defined by weighted homogeneous polynomials can be found, answering an open
 question in the Gr\""obner bases literature. We also show that deciding whether
 a sparse system is generically a regular sequence in a polytopal algebra is
 hard from the point of view of theoretical computational complexity."
-1,2,Amalgamation of real zero polynomials,"With this article, we hope to launch the investigation of what we call the
+4,2,Amalgamation of real zero polynomials,"With this article, we hope to launch the investigation of what we call the
 real zero amalgamation problem. Whenever a polynomial arises from another
 polynomial by substituting zero for some of its variables, we call the second
 polynomial an extension of the first one. The real zero amalgamation problem
@@ -3668,7 +3668,7 @@ described previously by work of Hacking-Keel-Tevelev, and
 Gallardo-Kerr-Schaffler. We establish the full sequence of wall crossings as
 one decreases $c$ from 1 to the minimal weight. Our results include a complete
 description of the fibers of the universal families."
-1,2,"On the derived category of IGr(3, 9)","We construct a minimal Lefschetz decomposition of the bounded derived
+4,2,"On the derived category of IGr(3, 9)","We construct a minimal Lefschetz decomposition of the bounded derived
 category of the odd isotropic Grassmannian $\mathsf{IGr}(3,9)$. The exceptional
 objects are $\mathsf{Sp}_9$-equivariant vector bundles. This provides further
 evidence of the Kuznetsov-Smirnov version of Dubrovin conjecture."
@@ -3748,7 +3748,7 @@ foliations on surfaces. In addition, we determine the set of minimal log
 discrepancies for foliated surface pairs with specific coefficients, which
 leads to the recovery of Y.-A. Chen's proof on the ascending chain condition
 conjecture for mlds for foliated surfaces."
-1,2,Algebraic Properties of the Fermi Variety for Periodic Graph Operators,"We present a method to estimate the number of irreducible components of the
+4,2,Algebraic Properties of the Fermi Variety for Periodic Graph Operators,"We present a method to estimate the number of irreducible components of the
 Fermi varieties of periodic Schr\""odinger operators on graphs in terms of
 suitable asymptotics. Our main theorem is an abstract bound for the number of
 irreducible components of Laurent polynomials in terms of such asymptotics. We
@@ -3817,7 +3817,7 @@ singular curves. We prove a general formula that expresses the Cohen--Lenstra
 series in terms of the motives of the (punctual) Quot schemes, which together
 with our main rationality theorem, provides positive evidence for Huang's
 conjecture for the cusp."
-1,2,Maximum likelihood thresholds of generic linear concentration models,"The maximum likelihood threshold of a statistical model is the minimum number
+3,2,Maximum likelihood thresholds of generic linear concentration models,"The maximum likelihood threshold of a statistical model is the minimum number
 of datapoints required to fit the model via maximum likelihood estimation. In
 this paper we determine the maximum likelihood thresholds of generic linear
 concentration models. This turns out to be the number one would expect from a
@@ -3825,11 +3825,11 @@ naive dimension count, which is surprising and nontrivial to prove given that
 the maximum likelihood threshold is a semi-algebraic concept. We also describe
 geometrically how a linear concentration model can fail to exhibit this generic
 behavior and briefly discuss connections to rigidity theory."
-1,2,Graph rings and ideals: Wolmer Vasconcelos contributions,"This is a survey article featuring some of Wolmer Vasconcelos contributions
+4,2,Graph rings and ideals: Wolmer Vasconcelos contributions,"This is a survey article featuring some of Wolmer Vasconcelos contributions
 to commutative algebra, and explaining how Vasconcelos' work and insights have
 contributed to the development of commutative algebra and its interaction with
 other areas to the present."
-3,2,Quasi-Isomorphisms of Commutative DG Rings and Divided Power Structures,"We prove that a quasi-isomorphism $f : A \to B$ between commutative DG rings,
+4,2,Quasi-Isomorphisms of Commutative DG Rings and Divided Power Structures,"We prove that a quasi-isomorphism $f : A \to B$ between commutative DG rings,
 where $B$ admits a divided power structure, can be factored as $f = \tilde{f}
 \circ e$, where $e : A \to \tilde{B}$ is a split injective quasi-isomorphism,
 and $\tilde{f} : \tilde{B} \to B$ is a surjective quasi-isomorphism.
@@ -3997,7 +3997,7 @@ we could not find in the literature. We discuss the quotients by all subgroups
 of G finding several K3 surfaces with symplectic involutions. In particular we
 show that six families are families of triple K3 burgers in the sense of
 Laterveer."
-1,3,"Epithelial-substrate coupling strength regulates the landscape of the traction in cohesive monolayers: a parametric study and a revisit to ""size effect""","Epithelial cells can assemble into cohesive colonies and collectively
+4,3,"Epithelial-substrate coupling strength regulates the landscape of the traction in cohesive monolayers: a parametric study and a revisit to ""size effect""","Epithelial cells can assemble into cohesive colonies and collectively
 interact with substrates by generating extracellular forces through focal
 adhesions. Recently, a molecularly based thermodynamic model, which integrates
 both the monolayer elasticity and force-mediated focal adhesion formation, has
@@ -4019,7 +4019,7 @@ factors. For epithelial-substrate coupling which is not strong enough, the
 currently observed ""size effect"" does not hold. A scaling law that determines
 whether the previously observed ""size effect"" holds is proposed based on our
 model."
-3,3,Reaction-diffusion transport into core-shell geometry: Well-posedness and stability of stationary solutions,"We investigate a nonlinear parabolic reaction-diffusion equation describing
+4,3,Reaction-diffusion transport into core-shell geometry: Well-posedness and stability of stationary solutions,"We investigate a nonlinear parabolic reaction-diffusion equation describing
 the oxygen concentration in encapsulated pancreatic cells with a general
 core-shell geometry. This geometry introduces a discontinuous diffusion
 coefficient as the material properties of the core and shell differ. We apply
@@ -4044,7 +4044,7 @@ the developed mechanistic kinetic model can support process control strategies
 to strategically select optimal cell culture conditions at different times,
 ensure cell product functionality, and facilitate large-scale manufacturing of
 regenerative medicines and cell therapies."
-1,3,Cell behavior in the face of uncertainty,"Organisms that grow and survive in uncertain environments may need to change
+4,3,Cell behavior in the face of uncertainty,"Organisms that grow and survive in uncertain environments may need to change
 their physiological state as the environment changes. When the environment is
 uncertain, one strategy known as bet-hedging is to make these changes randomly
 and independently of the environment, to ensure that at least part of the
@@ -4052,7 +4052,7 @@ population is well adapted. Organisms that collect information from their
 environment may also use this information to modulate their changes of
 physiological states. We review these different strategies and point out
 parallels with the theory of optimal financial investments."
-1,3,Quorum Sensing as a long-range interaction for bacteria growth and bioluminescence,"We study the role of Quorum Sensing (QS) in the growth of bacterial colonies
+4,3,Quorum Sensing as a long-range interaction for bacteria growth and bioluminescence,"We study the role of Quorum Sensing (QS) in the growth of bacterial colonies
 and in the bioluminescence produced. These two phenomena are both regulated by
 QS and the experimental data show a non-trivial correlation between them. It is
 also known that the specific bacterial substrate potentially modifies the
@@ -4110,7 +4110,7 @@ concave ones. Both of these predictions are verified experimentally, on several
 cell types. Altogether, our results identify the minimization of
 membrane-substrate adhesion energy and binding energy between the membrane
 protein complexes as key players of curvotaxis in cell migration."
-1,3,Relax! Diffusion is not the only way to estimate axon radius in vivo,"Axon radius is a potential biomarker for brain diseases and a crucial tissue
+4,3,Relax! Diffusion is not the only way to estimate axon radius in vivo,"Axon radius is a potential biomarker for brain diseases and a crucial tissue
 microstructure parameter that determines the speed of action potentials.
 Diffusion MRI (dMRI) allows non-invasive estimation of axon radius, but
 accurately estimating the radius of axons in the human brain is challenging.
@@ -4153,7 +4153,7 @@ we quantify actin enrichment in peripheral ruffles; and we measure the speed of
 ruffle movement along topographically complex cell surfaces. Thus, u-Unwrap3D
 provides access to spatiotemporal analyses of cell biological parameters on
 unconstrained 3D surface geometries and signals."
-1,3,Universal Transitions between Growth and Dormancy via Intermediate Complex Formation,"A simple cell model consisting of a catalytic reaction network with
+4,3,Universal Transitions between Growth and Dormancy via Intermediate Complex Formation,"A simple cell model consisting of a catalytic reaction network with
 intermediate complex formation is numerically studied. As nutrients are
 depleted, the transition from the exponential growth phase to the
 growth-arrested dormant phase occurs along with hysteresis and a lag time for
@@ -4314,7 +4314,7 @@ of metastatic aggressiveness. Dysregulation of prominent planar cell polarity
 factors such specific representative of the WNT and FZD families in malignant
 melanoma recapitulates the development program of normal melanocytes but in an
 uncontrolled and disorganized fashion."
-1,3,Methods and measures for investigating microscale motility,"Motility is an essential factor for an organism's survival and
+4,3,Methods and measures for investigating microscale motility,"Motility is an essential factor for an organism's survival and
 diversification. With the advent of novel single-cell technologies, analytical
 frameworks and theoretical methods, we can begin to probe the complex lives of
 microscopic motile organisms and answer the intertwining biological and
@@ -4343,7 +4343,7 @@ models in reproducing the qualitative properties of the solutions in some
 parameter regimes, but it also reveals some interesting properties arising from
 the introduction of cell and ECM volume-filling effects, where standard model
 simplifications might not be appropriate."
-1,3,On the Liveliness of Artificial Life,"There has been on-going philosophical debate on whether artificial life
+4,3,On the Liveliness of Artificial Life,"There has been on-going philosophical debate on whether artificial life
 models, also known as digital organisms, are truly alive. The main difficulty
 appears to be finding an encompassing and definite definition of life. By
 examining similarities and differences in recent definitions of life, we define
@@ -4380,7 +4380,7 @@ decreasing serum levels can decrease random cell migration by approximately
 20%. Our integrated experimental and computational pipeline can be adapted for
 automatically quantifying the effect of biological perturbations on cell
 migration and proliferation in various cell lines."
-1,3,A Fast Second-Order Explicit Predictor-Corrector Numerical Technique To Investigating And Predicting The Dynamic Of Cytokine Levels And Human Immune Cells Activation In Response To Gram-Positive Bacteria: Staphylococcus Aureus,"This paper develops a second-order explicit predictor-corrector numerical
+4,3,A Fast Second-Order Explicit Predictor-Corrector Numerical Technique To Investigating And Predicting The Dynamic Of Cytokine Levels And Human Immune Cells Activation In Response To Gram-Positive Bacteria: Staphylococcus Aureus,"This paper develops a second-order explicit predictor-corrector numerical
 approach for solving a mathematical model on the dynamic of cytokine
 expressions and human immune cell activation in response to the bacterium
 staphylococcus aureus (S. aureus). The proposed algorithm is at least
@@ -4424,7 +4424,7 @@ migration based on the formulating biophysical model. This complex phenomenon
 is discussed on the model systems such as the movement of cell clusters on the
 collagen I gel matrix by simultaneously reviewing various experimental data
 with and without cells."
-1,3,When does humoral memory enhance infection?,"Antibodies and humoral memory are key components of the adaptive immune
+4,3,When does humoral memory enhance infection?,"Antibodies and humoral memory are key components of the adaptive immune
 system. We consider and computationally model mechanisms by which humoral
 memory present at baseline might instead increase infection load; we refer to
 this effect as EI-HM (enhancement of infection by humoral memory). We first
@@ -4447,7 +4447,7 @@ results provide examples in which simple models give qualitatively opposite
 results compared to models with plausible complexity. Our results may be
 helpful in interpreting and reconciling disparate experimental findings,
 especially from dengue, and for vaccination."
-1,3,Theoretical model of membrane protrusions driven by curved active proteins,"Eukaryotic cells intrinsically change their shape, by changing the
+3,3,Theoretical model of membrane protrusions driven by curved active proteins,"Eukaryotic cells intrinsically change their shape, by changing the
 composition of their membrane and by restructuring their underlying
 cytoskeleton. We present here further studies and extensions of a minimal
 physical model, describing a closed vesicle with mobile curved membrane protein
@@ -4464,7 +4464,7 @@ clusters, as well as internalized invaginations that resemble the process of
 endocytosis and macropinocytosis. We alter the force model representing the
 cytoskeleton to simulate the effects of bundled instead of branched structure,
 resulting in shapes which resemble filopodia."
-1,3,Multiscale modelling of heavy metals adsorption on algal-bacterial photogranules,"A multiscale mathematical model describing the genesis and ecology of
+4,3,Multiscale modelling of heavy metals adsorption on algal-bacterial photogranules,"A multiscale mathematical model describing the genesis and ecology of
 algal-bacterial photogranules and the metals biosorption on their solid matrix
 within a sequencing batch reactor (SBR) is presented. The granular biofilm is
 modelled as a spherical free boundary domain with radial symmetry and a
@@ -4489,7 +4489,7 @@ adsorption proprieties of biofilm components on the metal removal. Numerical
 results show that the model accurately describes the photogranules evolution
 and ecology and confirm the applicability of algal-bacterial photogranules
 systems for metal-rich wastewater treatment."
-1,3,High-density magnetomyography is superior over surface electromyography for the decomposition of motor units: a simulation study,"Studying motor units (MUs) is essential for understanding motor control, the
+4,3,High-density magnetomyography is superior over surface electromyography for the decomposition of motor units: a simulation study,"Studying motor units (MUs) is essential for understanding motor control, the
 detection of neuromuscular disorders and the control of human-machine
 interfaces. Individual motor unit firings are currently identified in vivo by
 decomposing electromyographic (EMG) signals. Due to our body's electric
@@ -4510,7 +4510,7 @@ presented simulations provide insights into methods to study the neuromuscular
 system non-invasively and in vivo that would not be easily feasible by other
 means. Hence, this study provides guidance for the development of novel
 biomedical technologies."
-1,3,Are physiological oscillations 'physiological'?,"Despite widespread and striking examples of physiological oscillations, their
+4,3,Are physiological oscillations 'physiological'?,"Despite widespread and striking examples of physiological oscillations, their
 functional role is often unclear. Even glycolysis, the paradigm example of
 oscillatory biochemistry, has seen questions about its oscillatory function.
 Here, we take a systems approach to summarize evidence that oscillations play
@@ -4587,7 +4587,7 @@ distribution. Finally, we use these ideas to understand how cell sensing
 impacts cell decision-making. Notably, our formalism allows us to understand
 cell state dynamics even without exact biochemical information about cell
 sensing processes by considering a few key parameters."
-1,3,Phenomenological analysis of simple ion channel block in large populations of uncoupled cardiomyocytes,"Current understanding of arrhythmia mechanisms and design of anti-arrhythmic
+4,3,Phenomenological analysis of simple ion channel block in large populations of uncoupled cardiomyocytes,"Current understanding of arrhythmia mechanisms and design of anti-arrhythmic
 drug therapies hinges on the assumption that myocytes from the same region of a
 single heart have similar, if not identical, action potential waveforms and
 drug responses. On the contrary, recent experiments reveal significant
@@ -4636,7 +4636,7 @@ that symmetry-breaking bifurcations can occur without the large diffusivity
 ratio requirement for the bulk diffusing species as is well-known from a Turing
 stability analysis applied to a spatially uniform steady-state for typical
 two-component activator-inhibitor systems."
-1,3,The Emergence of Spatial Patterns for Compartmental Reaction Kinetics Coupled by Two Bulk Diffusing Species with Comparable Diffusivities,"Originating from the pioneering study of Alan Turing, the bifurcation
+4,3,The Emergence of Spatial Patterns for Compartmental Reaction Kinetics Coupled by Two Bulk Diffusing Species with Comparable Diffusivities,"Originating from the pioneering study of Alan Turing, the bifurcation
 analysis predicting spatial pattern formation from a spatially uniform state
 for diffusing morphogens or chemical species that interact through nonlinear
 reactions is a central problem in many chemical and biological systems. From a
@@ -4676,7 +4676,7 @@ limits of the integro-differential system under an a priori convergence
 hypothesis. We illustrate our results with numerical simulations, which show
 that our model exemplifies the three Es of immunoediting: elimination,
 equilibrium, and escape."
-1,3,Making sense of noise: introducing students to stochastic processes in order to better understand biological behaviors,"Biological systems are characterized by the ubiquitous roles of weak, that
+4,3,Making sense of noise: introducing students to stochastic processes in order to better understand biological behaviors,"Biological systems are characterized by the ubiquitous roles of weak, that
 is, non-covalent molecular interactions, small, often very small, numbers of
 specific molecules per cell, and Brownian motion. These combine to produce
 stochastic behaviors at all levels from the molecular and cellular to the
@@ -4684,7 +4684,7 @@ behavioral. That said, students are rarely introduced to the ubiquitous role of
 stochastic processes in biological systems, and how they produce unpredictable
 behaviors. Here I present the case that they need to be and provide some
 suggestions as to how it might be approached."
-1,3,Inferring Gene Regulatory Neural Networks for Bacterial Decision Making in Biofilms,"Bacterial cells are sensitive to a range of external signals used to learn
+4,3,Inferring Gene Regulatory Neural Networks for Bacterial Decision Making in Biofilms,"Bacterial cells are sensitive to a range of external signals used to learn
 the environment. These incoming external signals are then processed using a
 Gene Regulatory Network (GRN), exhibiting similarities to modern computing
 algorithms. An in-depth analysis of gene expression dynamics suggests an
@@ -4704,7 +4704,7 @@ model can produce data on causal relationships throughout the network, enabling
 the possibility of designing tailor-made infection-controlling mechanisms. More
 interestingly, these GRNNs can perform computational tasks for bio-hybrid
 computing systems."
-1,3,mRNA active transport in oocyte-early embryo: 3D agent-based modeling,"Axes of polarity (and primary morphogenetic gradients) are established in the
+4,3,mRNA active transport in oocyte-early embryo: 3D agent-based modeling,"Axes of polarity (and primary morphogenetic gradients) are established in the
 oocyte - early embryo through active transport and localization of maternal
 factors. It is the oocyte - syncytial embryo of Drosophila (D. melanogaster)
 that is a model object for studying the molecular machinery of such transport
@@ -4763,7 +4763,7 @@ had reconfirmed in plant cells. The phenomena may be common across the kingdom,
 also in a social amoeba. We measured the liberality of the social amoeba which
 disaggregated from multicellular aggregates and transferred into a liquid
 medium."
-1,3,Tunable intracellular transport on converging microtubule morphologies,"A common type of cytoskeletal morphology involves multiple converging
+2,3,Tunable intracellular transport on converging microtubule morphologies,"A common type of cytoskeletal morphology involves multiple converging
 microbutubules with their minus ends collected and stabilized by a microtubule
 organizing center (MTOC) in the interior of the cell. This arrangement enables
 the ballistic transport of cargo bound to microtubules, both dynein mediated
@@ -4789,7 +4789,7 @@ exponentially sensitive to the attractor positioning. Our results suggest that
 structures such as the MTOC allow for the sensitive control of the spatial and
 temporal features of transport and corresponding function under physiological
 conditions."
-1,3,Segmentation based tracking of cells in 2D+time microscopy images of macrophages,"The automated segmentation and tracking of macrophages during their migration
+2,3,Segmentation based tracking of cells in 2D+time microscopy images of macrophages,"The automated segmentation and tracking of macrophages during their migration
 are challenging tasks due to their dynamically changing shapes and motions.
 This paper proposes a new algorithm to achieve automatic cell tracking in
 time-lapse microscopy macrophage data. First, we design a segmentation method
@@ -4815,7 +4815,7 @@ the condition for extremal response and find good agreement with simulations.
 We also make experimentally verifiable prediction that there is an optimum size
 of the step stimulus at which the extremal response is reached in the shortest
 possible time."
-1,3,How different are self and nonself?,"Biological and artificial neural networks routinely make reliable
+4,3,How different are self and nonself?,"Biological and artificial neural networks routinely make reliable
 distinctions between similar inputs, and the rules for making these
 distinctions are learned. In some ways, self/nonself discrimination in the
 immune system is similar, being both reliable and (partly) learned through
@@ -4830,7 +4830,7 @@ peptides which are very similar to self, with maximum sensitivity for sequences
 just one substitution away. This prediction from the structure of the
 underlying distribution in sequence space agrees, for example, with the
 observed responses to cancer neoantigens."
-1,3,Quantifying different modeling frameworks using topological data analysis: a case study with zebrafish patterns,"Mathematical models come in many forms across biological applications. In the
+4,3,Quantifying different modeling frameworks using topological data analysis: a case study with zebrafish patterns,"Mathematical models come in many forms across biological applications. In the
 case of complex, spatial dynamics and pattern formation, stochastic models also
 face two main challenges: pattern data is largely qualitative, and model
 realizations may vary significantly. Together these issues make it difficult to
@@ -4846,7 +4846,7 @@ to quantitatively relate two different models of the same biological process in
 a fair, comparable way. To center our work and illustrate concrete challenges,
 we focus on the example of zebrafish-skin pattern formation, and we relate
 patterns that arise from agent-based and cellular automaton models."
-1,3,"There's Plenty of Room Right Here: Biological Systems as Evolved, Overloaded, Multi-scale Machines","The applicability of computational models to the biological world is an
+4,3,"There's Plenty of Room Right Here: Biological Systems as Evolved, Overloaded, Multi-scale Machines","The applicability of computational models to the biological world is an
 active topic of debate. We argue that a useful path forward results from
 abandoning hard boundaries between categories and adopting an
 observer-dependent, pragmatic view. Such a view dissolves the contingent
@@ -4888,7 +4888,7 @@ given cell fate based on the fates of the neighboring cells. The results show a
 70% accuracy of cell fate reconstruction based on the nine nearest neighbors of
 a cell. Overall, our approach combines deep learning with mathematical modeling
 to link cell fate patterns with potential underlying mechanisms."
-1,3,A new lipid-structured model to investigate the opposing effects of LDL and HDL on atherosclerotic plaque macrophages,"Atherosclerotic plaques form in artery walls due to a chronic inflammatory
+4,3,A new lipid-structured model to investigate the opposing effects of LDL and HDL on atherosclerotic plaque macrophages,"Atherosclerotic plaques form in artery walls due to a chronic inflammatory
 response driven by lipid accumulation. A key component of the inflammatory
 response is the interaction between monocyte-derived macrophages and
 extracellular lipid. Although concentrations of low-density lipoprotein (LDL)
@@ -4911,7 +4911,7 @@ reveals that macrophage uptake may be severely impaired by lipid accumulation.
 We conclude that lipid accumulation in plaque macrophages may serve as a
 partial explanation for the defective uptake of apoptotic cells (efferocytosis)
 often reported in atherosclerotic plaques."
-1,3,Modelling and Economic Optimal Control for a Laboratory-scale Continuous Stirred Tank Reactor for Single-cell Protein Production,"In this paper, we present a novel kinetic growth model for the micro-organism
+4,3,Modelling and Economic Optimal Control for a Laboratory-scale Continuous Stirred Tank Reactor for Single-cell Protein Production,"In this paper, we present a novel kinetic growth model for the micro-organism
 \textit{Methylococcus capsulatus} (Bath) that couples growth and pH. We apply
 growth kinetics in a model for single-cell protein production in a
 laboratory-scale continuous stirred tank reactor inspired by a physical
@@ -4943,7 +4943,7 @@ the wavelength of the external structure. Even though still preliminary, these
 results can be potentially useful in determining the physical limit of cell
 migration in confined environment and in designing scaffold for tissue
 engineering."
-1,3,A qualitative analysis of a A$β$-monomer model with inflammation processes for Alzheimer's disease,"We introduce and study a new model for the progression of Alzheimer's disease
+4,3,A qualitative analysis of a A$β$-monomer model with inflammation processes for Alzheimer's disease,"We introduce and study a new model for the progression of Alzheimer's disease
 incorporating the interactions of A$\beta$-monomers, oligomers, microglial
 cells and interleukins with neurons through different mechanisms such as
 protein polymerization, inflammation processes and neural stress reactions. In
@@ -5016,7 +5016,7 @@ vascular-like cell patterning for multiple parameter regimes. Overall, we
 demonstrate a biologically-motivated multiphase model capable of generating
 long-term pattern formation on a biologically plausible spatial scale both in
 1D and 2D, with applications for modelling in vitro vascular network formation."
-1,3,Contextual guidance: An integrated theory for astrocytes function in brain circuits and behavior,"The participation of astrocytes in brain computation was formally
+4,3,Contextual guidance: An integrated theory for astrocytes function in brain circuits and behavior,"The participation of astrocytes in brain computation was formally
 hypothesized in 1992, coinciding with the discovery that these glial cells
 display a complex form of Ca2+ excitability. This fostered conceptual advances
 centered on the notion of reciprocal interactions between neurons and
@@ -5040,7 +5040,7 @@ powerful theoretical space to improve our understanding of brain function and
 computational models thereof across scales because it depicts astrocytes as a
 hub for circumstantial inputs into relevant specialized circuits that permits
 adaptive behaviors at the network and organism level."
-1,3,Oncology and mechanics: landmark studies and promising clinical applications,"Clinical management of cancer has continuously evolved for several decades.
+4,3,Oncology and mechanics: landmark studies and promising clinical applications,"Clinical management of cancer has continuously evolved for several decades.
 Biochemical, molecular and genomics approaches have brought and still bring
 numerous insights into cancerous diseases. It is now accepted that some
 phenomena, allowed by favorable biological conditions, emerge via mechanical
@@ -5075,7 +5075,7 @@ nearest neighbor signal yields checkerboard patterns. Increasing the signal
 dispersion, cell fate clusters and an engulfing pattern can be generated.
 Altogether, the presented model allows to reliably generate heterogeneous cell
 type patterns of different kinds as well as desired proportions."
-1,3,Current Landscape of Mesenchymal Stem Cell Therapy in COVID Induced Acute Respiratory Distress Syndrome,"The severe acute respiratory syndrome coronavirus 2 outbreak in Chinas Hubei
+4,3,Current Landscape of Mesenchymal Stem Cell Therapy in COVID Induced Acute Respiratory Distress Syndrome,"The severe acute respiratory syndrome coronavirus 2 outbreak in Chinas Hubei
 area in late 2019 has now created a global pandemic that has spread to over 150
 countries. In most people, COVID 19 is a respiratory infection that produces
 fever, cough, and shortness of breath. Patients with severe COVID 19 may
@@ -5109,7 +5109,7 @@ deep plaque. Finally, we introduce an additional bead species to model
 macrophage tagging via microspheres, and we use the extended model to explore
 how high rates of cell death and low rates of efferocytosis and emigration
 prevent the clearance of macrophages from the plaque."
-1,3,Closing the Loop on Morphogenesis: A Mathematical Model of Morphogenesis by Closed-Loop Reaction-Diffusion,"Morphogenesis, the establishment and repair of emergent complex anatomy by
+4,3,Closing the Loop on Morphogenesis: A Mathematical Model of Morphogenesis by Closed-Loop Reaction-Diffusion,"Morphogenesis, the establishment and repair of emergent complex anatomy by
 groups of cells, is a fascinating and biomedically-relevant problem. One of its
 most fascinating aspects is that a developing embryo can reliably recover from
 disturbances, such as splitting into twins. While this reliability implies some
@@ -5133,7 +5133,7 @@ of understanding design principles of morphological computation, which can be
 used to understand evolved developmental mechanisms, manipulate them in
 regenerative medicine settings, or embed a degree of synthetic intelligence
 into novel bioengineered constructs."
-1,3,Cell dynamics in microfluidic devices under heterogeneous chemotaxis and growth conditions: a mathematical study,"As motivated by studies of cellular motility driven by spatiotemporal
+4,3,Cell dynamics in microfluidic devices under heterogeneous chemotaxis and growth conditions: a mathematical study,"As motivated by studies of cellular motility driven by spatiotemporal
 chemotactic gradients in microdevices, we develop a framework for constructing
 approximate analytical solutions for the location, speed and cellular densities
 for cell chemotaxis waves in heterogeneous fields of chemoattractant from the
@@ -5180,7 +5180,7 @@ types: the amoeboid and a so-called fan-shaped type. For both types, we use
 cell tracks segmented from fluorescence imaging data of the model organism D.
 discoideum. An implementation of the model is provided within the open-source
 software package AmoePy."
-1,3,Swarmalators with delayed interactions,"We investigate the effects of delayed interactions in a population of
+4,3,Swarmalators with delayed interactions,"We investigate the effects of delayed interactions in a population of
 ``swarmalators"", generalizations of phase oscillators that both synchronize in
 time and swarm through space. We discover two steady collective states: a state
 in which swarmalators are essentially motionless in a disk arranged in a
@@ -5188,7 +5188,7 @@ pseudo-crystalline order, and a boiling state in which the swarmalators again
 form a disk, but now the swarmalators near the boundary perform boiling-like
 convective motions. These states are reminiscent of the beating clusters seen
 in photoactivated colloids and the living crystals of starfish embryos."
-1,3,Spatial Heterogeneity Localizes Turing Patterns in Reaction-Cross-Diffusion Systems,"Motivated by bacterial chemotaxis and multi-species ecological interactions
+4,3,Spatial Heterogeneity Localizes Turing Patterns in Reaction-Cross-Diffusion Systems,"Motivated by bacterial chemotaxis and multi-species ecological interactions
 in heterogeneous environments, we study a general one-dimensional
 reaction-cross-diffusion system in the presence of spatial heterogeneity in
 both transport and reaction terms. Under a suitable asymptotic assumption that
@@ -5304,7 +5304,7 @@ species has been difficult, as candidates need not be strongly polarized even
 in large electric fields. A second prediction of the model is that the accuracy
 of cells in predicting the electric field direction only weakly depends on
 their size."
-1,3,Concentration-Dependent Domain Evolution in Reaction-Diffusion Systems,"Pattern formation has been extensively studied in the context of evolving
+4,3,Concentration-Dependent Domain Evolution in Reaction-Diffusion Systems,"Pattern formation has been extensively studied in the context of evolving
 (time-dependent) domains in recent years, with domain growth implicated in
 ameliorating problems of pattern robustness and selection, in addition to more
 realistic modelling in developmental biology. Most work to date has considered
@@ -5353,7 +5353,7 @@ concentration gradient and reveals that each cell produces approximately two
 IL-8 cytokines per second. Proper calibration and use of this assay is
 exhaustively explored for the case of diffusion-limited Langmuir kinetics of a
 spherical adsorber."
-1,3,Role of heterogeneity in dictating tumorigenesis in epithelial tissues,"Biological systems across various length and time scales are noisy, including
+4,3,Role of heterogeneity in dictating tumorigenesis in epithelial tissues,"Biological systems across various length and time scales are noisy, including
 tissues. Why are biological tissues inherently chaotic? Does heterogeneity play
 a role in determining the physiology and pathology of tissues? How do physical
 and biochemical heterogeneity crosstalk to dictate tissue function? In this
@@ -5484,7 +5484,7 @@ pressure to ensure cell networks remain both porous yet mechanically robust.
 The success of this mechanical model of tissue growth and porosity evolution
 suggests that simple physical principles can coordinate and drive the
 development of complex plant tissues like the spongy mesophyll."
-1,3,Effect of switching time scale of receptor activity on chemotactic performance of Escherichia coli,"In the chemotactic motion of Escherichia coli, the switching of transmembrane
+2,3,Effect of switching time scale of receptor activity on chemotactic performance of Escherichia coli,"In the chemotactic motion of Escherichia coli, the switching of transmembrane
 chemoreceptors between active and inactive states is one of the most important
 steps of the signaling pathway. We study the effect of this switching
 time-scale on the chemotactic performance of the cell. We quantify performance
@@ -5499,7 +5499,7 @@ activity variation show qualitatively different behaviors along a downhill run
 but similar behavior along an uphill run. This results in a stronger dependence
 of downhill run duration on the switching rate and relatively milder dependence
 for uphill run duration."
-1,3,Exact lattice-based stochastic cell culture simulation algorithms incorporating spontaneous and contact-dependent reactions,"In this paper, we address the modeling issues of cell movement and division
+2,3,Exact lattice-based stochastic cell culture simulation algorithms incorporating spontaneous and contact-dependent reactions,"In this paper, we address the modeling issues of cell movement and division
 with a special focus on the phenomenon of volume exclusion in a lattice-based,
 exact stochastic simulation framework. We propose a new exact method, called
 Reduced Rate Method -- RRM, that is substantially quicker than the previously
@@ -5520,7 +5520,7 @@ approximations of the corresponding stochastic models. Our proposed methods are
 exact, they are easy to implement, have a high predictive value, and can be
 conveniently extended with new features. Therefore, these approaches promise a
 great potential."
-1,3,Swimming in Complex Fluids,"We review the literature on swimming in complex fluids. A classification is
+4,3,Swimming in Complex Fluids,"We review the literature on swimming in complex fluids. A classification is
 proposed by comparing the length and time scales of a swimmer with those of
 nearby obstacles, interpreted broadly, extending from rigid or soft confining
 boundaries to molecules which confer the bulk fluid with complex stresses. A
@@ -5669,7 +5669,7 @@ cell dynamics by comparing the outcomes of our model with some experimental
 results related to breast cancer cell migration. This allows us to validate the
 proposed modeling approach and, also, to highlight its capability of predicting
 the qualitative cell behaviors in diverse heterogeneous microenvironments."
-1,3,Biological Robots: Perspectives on an Emerging Interdisciplinary Field,"Advances in science and engineering often reveal the limitations of classical
+4,3,Biological Robots: Perspectives on an Emerging Interdisciplinary Field,"Advances in science and engineering often reveal the limitations of classical
 approaches initially used to understand, predict, and control phenomena. With
 progress, conceptual categories must often be re-evaluated to better track
 recently discovered invariants across disciplines. It is essential to refine
@@ -5704,7 +5704,7 @@ cell sorting patterns observed both in experiments and in previously used
 nonlocal models. In addition, it also has the advantage of having explicit
 stationary solutions, which provides a direct link between the model parameters
 and the differential adhesion hypothesis."
-1,3,The impact of phenotypic heterogeneity on chemotactic self-organisation,"The capacity to aggregate through chemosensitive movement forms a paradigm of
+4,3,The impact of phenotypic heterogeneity on chemotactic self-organisation,"The capacity to aggregate through chemosensitive movement forms a paradigm of
 self-organisation, with examples spanning cellular and animal systems. A basic
 mechanism assumes a phenotypically homogeneous population that secretes its own
 attractant, with the well known system introduced more than five decades ago by
@@ -5760,7 +5760,7 @@ independent of substrate stiffness and is slower than solid tissues. We compare
 our theoretical results with experimental results on traction force generation
 and spreading kinetics of cell monolayers, and provide new predictions on the
 role of tissue fluidity and substrate rigidity on collective cell motion."
-1,3,Innovations in Integrating Machine Learning and Agent-Based Modeling of Biomedical Systems,"Agent-based modeling (ABM) is a well-established paradigm for simulating
+4,3,Innovations in Integrating Machine Learning and Agent-Based Modeling of Biomedical Systems,"Agent-based modeling (ABM) is a well-established paradigm for simulating
 complex systems via interactions between constituent entities. Machine learning
 (ML) refers to approaches whereby statistical algorithms 'learn' from data on
 their own, without imposing a priori theories of system behavior. Biological
@@ -5785,7 +5785,7 @@ algorithms (e.g., for regularization, to mitigate overfitting). In these ways,
 one can envision various synergistic ABM$\rightleftharpoons$ML loops. This
 review summarizes how ABM and ML have been integrated in contexts that span
 spatiotemporal scales, from cellular to population-level epidemiology."
-1,3,A typical workflow to simulate cytoskeletal systems with Cytosim,"Many cytoskeletal systems are now sufficiently well known to permit their
+4,3,A typical workflow to simulate cytoskeletal systems with Cytosim,"Many cytoskeletal systems are now sufficiently well known to permit their
 precise quantitative modelling. Microtubule and actin filaments are well
 characterized, and the associated proteins are often known, as well as their
 abundance and the interactions between these elements. Thus, computer
@@ -5838,7 +5838,7 @@ of bacterial defenses, which allows us to experimentally validate our
 predictions. All considered, our characterization of amoeba foraging identifies
 amoeba mobility, and not amoeba growth, as the core determinant of predation
 efficiency and a key target for bacterial defense systems."
-1,4,Q-malizing flow and infinitesimal density ratio estimation,"Continuous normalizing flows are widely used in generative tasks, where a
+4,4,Q-malizing flow and infinitesimal density ratio estimation,"Continuous normalizing flows are widely used in generative tasks, where a
 flow network transports from a data distribution $P$ to a normal distribution.
 A flow model that can transport from $P$ to an arbitrary $Q$, where both $P$
 and $Q$ are accessible via finite samples, would be of various application
@@ -5873,7 +5873,7 @@ achieves superior performance to the existing SoTA, PaLM-540B. We also collect
 347K high-quality demonstrations using our trained models, 38 times larger than
 prior work, and make them available to promote future research in this
 direction."
-1,4,Improving Multimodal Joint Variational Autoencoders through Normalizing Flows and Correlation Analysis,"We propose a new multimodal variational autoencoder that enables to generate
+4,4,Improving Multimodal Joint Variational Autoencoders through Normalizing Flows and Correlation Analysis,"We propose a new multimodal variational autoencoder that enables to generate
 from the joint distribution and conditionally to any number of complex
 modalities. The unimodal posteriors are conditioned on the Deep Canonical
 Correlation Analysis embeddings which preserve the shared information across
@@ -5884,7 +5884,7 @@ inferring one modality from several others which makes the model scalable to
 any number of modalities. We demonstrate that our method improves likelihood
 estimates, diversity of the generations and in particular coherence metrics in
 the conditional generations on several datasets."
-1,4,The probability flow ODE is provably fast,"We provide the first polynomial-time convergence guarantees for the
+4,4,The probability flow ODE is provably fast,"We provide the first polynomial-time convergence guarantees for the
 probability flow ODE implementation (together with a corrector step) of
 score-based generative modeling. Our analysis is carried out in the wake of
 recent results obtaining such guarantees for the SDE-based implementation
@@ -5894,7 +5894,7 @@ contractivity. Through the use of a specially chosen corrector step based on
 the underdamped Langevin diffusion, we obtain better dimension dependence than
 prior works on DDPM ($O(\sqrt{d})$ vs. $O(d)$, assuming smoothness of the data
 distribution), highlighting potential advantages of the ODE framework."
-1,4,Implicit Bias of Gradient Descent for Logistic Regression at the Edge of Stability,"Recent research has observed that in machine learning optimization, gradient
+4,4,Implicit Bias of Gradient Descent for Logistic Regression at the Edge of Stability,"Recent research has observed that in machine learning optimization, gradient
 descent (GD) often operates at the edge of stability (EoS) [Cohen, et al.,
 2021], where the stepsizes are set to be large, resulting in non-monotonic
 losses induced by the GD iterates. This paper studies the convergence and
@@ -5911,7 +5911,7 @@ loss, highlighting the superiority of the logistic loss. These theoretical
 findings are in line with numerical simulations and complement existing
 theories on the convergence and implicit bias of GD, which are only applicable
 when the stepsizes are sufficiently small."
-1,4,Multi-Objective Optimization Using the R2 Utility,"The goal of multi-objective optimization is to identify a collection of
+4,4,Multi-Objective Optimization Using the R2 Utility,"The goal of multi-objective optimization is to identify a collection of
 points which describe the best possible trade-offs between the multiple
 objectives. In order to solve this vector-valued optimization problem,
 practitioners often appeal to the use of scalarization functions in order to
@@ -5928,7 +5928,7 @@ which can be optimised effectively using greedy optimization algorithms. We
 analyse the performance of these greedy algorithms both theoretically and
 empirically. Our analysis largely focusses on Bayesian optimization, which is a
 popular probabilistic framework for black-box optimization."
-1,4,Transfer operators on graphs: Spectral clustering and beyond,"Graphs and networks play an important role in modeling and analyzing complex
+4,4,Transfer operators on graphs: Spectral clustering and beyond,"Graphs and networks play an important role in modeling and analyzing complex
 interconnected systems such as transportation networks, integrated circuits,
 power grids, citation graphs, and biological and artificial neural networks.
 Graph clustering algorithms can be used to detect groups of strongly connected
@@ -5941,7 +5941,7 @@ interpreted in terms of eigenfunctions of the Koopman operator and propose
 novel clustering algorithms for directed graphs based on generalized transfer
 operators. We demonstrate the efficacy of the resulting algorithms on several
 benchmark problems and provide different interpretations of clusters."
-1,4,Tester-Learners for Halfspaces: Universal Algorithms,"We give the first tester-learner for halfspaces that succeeds universally
+4,4,Tester-Learners for Halfspaces: Universal Algorithms,"We give the first tester-learner for halfspaces that succeeds universally
 over a wide class of structured distributions. Our universal tester-learner
 runs in fully polynomial time and has the following guarantee: the learner
 achieves error $O(\mathrm{opt}) + \epsilon$ on any labeled distribution that
@@ -5958,7 +5958,7 @@ unconditionally (without assuming KLS). Our tests rely on checking
 hypercontractivity of the unknown distribution using a sum-of-squares (SOS)
 program, and crucially make use of the fact that Poincar\'e distributions are
 certifiably hypercontractive in the SOS framework."
-1,4,Moment Matching Denoising Gibbs Sampling,"Energy-Based Models (EBMs) offer a versatile framework for modeling complex
+4,4,Moment Matching Denoising Gibbs Sampling,"Energy-Based Models (EBMs) offer a versatile framework for modeling complex
 data distributions. However, training and sampling from EBMs continue to pose
 significant challenges. The widely-used Denoising Score Matching (DSM) method
 for scalable EBM training suffers from inconsistency issues, causing the energy
@@ -5968,7 +5968,7 @@ which enables effective sampling from the underlying clean model when given a
 `noisy' model that has been well-trained via DSM. We explore the benefits of
 our approach compared to related methods and demonstrate how to scale the
 method to high-dimensional datasets."
-1,4,Distribution-Free Matrix Prediction Under Arbitrary Missing Pattern,"This paper studies the open problem of conformalized entry prediction in a
+4,4,Distribution-Free Matrix Prediction Under Arbitrary Missing Pattern,"This paper studies the open problem of conformalized entry prediction in a
 row/column-exchangeable matrix. The matrix setting presents novel and unique
 challenges, but there exists little work on this interesting topic. We
 meticulously define the problem, differentiate it from closely related
@@ -5981,7 +5981,7 @@ validity in presence of arbitrary missing pattern. Further, we quantify the
 impact of missingness on prediction accuracy and establish fundamental limit
 results. Empirical evidence from synthetic and real-world data sets
 corroborates the superior performance of our proposed methods."
-1,4,Bayesian approach to Gaussian process regression with uncertain inputs,"Conventional Gaussian process regression exclusively assumes the existence of
+4,4,Bayesian approach to Gaussian process regression with uncertain inputs,"Conventional Gaussian process regression exclusively assumes the existence of
 noise in the output data of model observations. In many scientific and
 engineering applications, however, the input locations of observational data
 may also be compromised with uncertainties owing to modeling assumptions,
@@ -5996,7 +5996,7 @@ effectiveness of this new regression technique is demonstrated through several
 numerical examples, in which a consistently good performance of generalization
 is observed, while a substantial reduction in the predictive uncertainties is
 achieved by the Bayesian inference of uncertain inputs."
-1,4,The Deep Promotion Time Cure Model,"We propose a novel method for predicting time-to-event in the presence of
+4,4,The Deep Promotion Time Cure Model,"We propose a novel method for predicting time-to-event in the presence of
 cure fractions based on flexible survivals models integrated into a deep neural
 network framework. Our approach allows for non-linear relationships and
 high-dimensional interactions between covariates and survival and is suitable
@@ -6008,7 +6008,7 @@ computational efficiency of our method via simulations and apply it to a large
 portfolio of US mortgage loans. Here, we find not only a better predictive
 performance of our framework but also a more realistic picture of covariate
 effects."
-1,4,TSGM: A Flexible Framework for Generative Modeling of Synthetic Time Series,"Temporally indexed data are essential in a wide range of fields and of
+4,4,TSGM: A Flexible Framework for Generative Modeling of Synthetic Time Series,"Temporally indexed data are essential in a wide range of fields and of
 interest to machine learning researchers. Time series data, however, are often
 scarce or highly sensitive, which precludes the sharing of data between
 researchers and industrial organizations and the application of existing and
@@ -6049,7 +6049,7 @@ be improved. This result suggests an intrinsic axiomatic gap between metric
 spaces and metric measure spaces from an algorithmic perspective, since the
 upper bound in a metric measure space breaks the known information-theoretical
 lower bounds for Lipschitz bandits in a metric space with no measure structure."
-1,4,Accelerating Convergence in Global Non-Convex Optimization with Reversible Diffusion,"Langevin Dynamics has been extensively employed in global non-convex
+4,4,Accelerating Convergence in Global Non-Convex Optimization with Reversible Diffusion,"Langevin Dynamics has been extensively employed in global non-convex
 optimization due to the concentration of its stationary distribution around the
 global minimum of the potential function at low temperatures. In this paper, we
 propose to utilize a more comprehensive class of stochastic processes, known as
@@ -6062,7 +6062,7 @@ of Langevin Dynamics, and we prove convergence with respect to KL divergence,
 investigating the trade-off between convergence speed and discretization error.
 The efficacy of our proposed method is demonstrated through numerical
 experiments."
-1,4,Curve Your Enthusiasm: Concurvity Regularization in Differentiable Generalized Additive Models,"Generalized Additive Models (GAMs) have recently experienced a resurgence in
+4,4,Curve Your Enthusiasm: Concurvity Regularization in Differentiable Generalized Additive Models,"Generalized Additive Models (GAMs) have recently experienced a resurgence in
 popularity due to their interpretability, which arises from expressing the
 target value as a sum of non-linear transformations of the features. Despite
 the current enthusiasm for GAMs, their susceptibility to concurvity - i.e.,
@@ -6111,7 +6111,7 @@ exponential graph. We conducted experiments with various topologies,
 demonstrating that the Base-$(k + 1)$ Graph enables various decentralized
 learning methods to achieve higher accuracy with better communication
 efficiency than the existing topologies."
-1,4,Few-Shot Continual Learning for Conditional Generative Adversarial Networks,"In few-shot continual learning for generative models, a target mode must be
+4,4,Few-Shot Continual Learning for Conditional Generative Adversarial Networks,"In few-shot continual learning for generative models, a target mode must be
 learned with limited samples without adversely affecting the previously learned
 modes. In this paper, we propose a new continual learning approach for
 conditional generative adversarial networks (cGAN) based on a new mode-affinity
@@ -6125,7 +6125,7 @@ memory replaying with the generated data. Our experimental results demonstrate
 the efficacy of our approach in improving the generation performance over the
 baselines and the state-of-the-art approaches for various standard datasets
 while utilizing fewer training samples."
-1,4,Generalized Precision Matrix for Scalable Estimation of Nonparametric Markov Networks,"A Markov network characterizes the conditional independence structure, or
+4,4,Generalized Precision Matrix for Scalable Estimation of Nonparametric Markov Networks,"A Markov network characterizes the conditional independence structure, or
 Markov property, among a set of random variables. Existing work focuses on
 specific families of distributions (e.g., exponential families) and/or certain
 structures of graphs, and most of them can only handle variables of a single
@@ -6138,7 +6138,7 @@ one of the most general settings. To deal with the computational challenge of
 the problem, especially for large graphs, we unify all cases under the same
 umbrella of a regularized score matching framework. We validate the theoretical
 results and demonstrate the scalability empirically in various settings."
-1,4,Meta-learning for heterogeneous treatment effect estimation with closed-form solvers,"This article proposes a meta-learning method for estimating the conditional
+4,4,Meta-learning for heterogeneous treatment effect estimation with closed-form solvers,"This article proposes a meta-learning method for estimating the conditional
 average treatment effect (CATE) from a few observational data. The proposed
 method learns how to estimate CATEs from multiple tasks and uses the knowledge
 for unseen tasks. In the proposed method, based on the meta-learner framework,
@@ -6153,7 +6153,7 @@ difference between a CATE estimated with a large amount of data and one
 estimated with just a few data. Our experimental results demonstrate that our
 method outperforms the existing meta-learning approaches and CATE estimation
 methods."
-1,4,Counterfactuals for Design: A Model-Agnostic Method For Design Recommendations,"We introduce Multi-Objective Counterfactuals for Design (MCD), a novel method
+4,4,Counterfactuals for Design: A Model-Agnostic Method For Design Recommendations,"We introduce Multi-Objective Counterfactuals for Design (MCD), a novel method
 for counterfactual optimization in design problems. Counterfactuals are
 hypothetical situations that can lead to a different decision or choice. In
 this paper, the authors frame the counterfactual search problem as a design
@@ -6195,7 +6195,7 @@ while providing a novel sample-efficient model elimination algorithm to
 approximate equilibrium in MFG setting. Our results reveal a fundamental
 separation between RL for single-agent, MFC, and MFG from the sample efficiency
 perspective."
-1,4,Real-Time Variational Method for Learning Neural Trajectory and its Dynamics,"Latent variable models have become instrumental in computational neuroscience
+4,4,Real-Time Variational Method for Learning Neural Trajectory and its Dynamics,"Latent variable models have become instrumental in computational neuroscience
 for reasoning about neural computation. This has fostered the development of
 powerful offline algorithms for extracting latent neural trajectories from
 neural recordings. However, despite the potential of real time alternatives to
@@ -6210,7 +6210,7 @@ the predict step of the Kalman filter which leads to a provably tighter bound
 on the ELBO compared to another online variational method. We validate our
 method on synthetic and real-world data, and, notably, show that it achieves
 competitive performance"
-1,4,"Evidence Networks: simple losses for fast, amortized, neural Bayesian model comparison","Evidence Networks can enable Bayesian model comparison when state-of-the-art
+4,4,"Evidence Networks: simple losses for fast, amortized, neural Bayesian model comparison","Evidence Networks can enable Bayesian model comparison when state-of-the-art
 methods (e.g. nested sampling) fail and even when likelihoods or priors are
 intractable or unknown. Bayesian model comparison, i.e. the computation of
 Bayes factors or evidence ratios, can be cast as an optimization problem.
@@ -6231,7 +6231,7 @@ compute the Bayes factor for two models with gravitational lensing data of the
 Dark Energy Survey. We briefly discuss applications of our methods to other,
 related problems of model comparison and evaluation in implicit inference
 settings."
-1,4,The noise level in linear regression with dependent data,"We derive upper bounds for random design linear regression with dependent
+4,4,The noise level in linear regression with dependent data,"We derive upper bounds for random design linear regression with dependent
 ($\beta$-mixing) data absent any realizability assumptions. In contrast to the
 strictly realizable martingale noise regime, no sharp instance-optimal
 non-asymptotics are available in the literature. Up to constant factors, our
@@ -6240,7 +6240,7 @@ Theorem -- the noise level of the problem -- and thus exhibits graceful
 degradation as we introduce misspecification. Past a burn-in, our result is
 sharp in the moderate deviations regime, and in particular does not inflate the
 leading order term by mixing time factors."
-1,4,Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study,"The rise of machine learning (ML) systems has exacerbated their carbon
+4,4,Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study,"The rise of machine learning (ML) systems has exacerbated their carbon
 footprint due to increased capabilities and model sizes. However, there is
 scarce knowledge on how the carbon footprint of ML models is actually measured,
 reported, and evaluated. In light of this, the paper aims to analyze the
@@ -6264,7 +6264,7 @@ two classifications are proposed: one for categorizing models based on their
 carbon emission reporting practices and another for their carbon efficiency.
 The aim of these classification proposals is to foster transparency and
 sustainable model development within the ML community."
-1,4,Attacks on Online Learners: a Teacher-Student Analysis,"Machine learning models are famously vulnerable to adversarial attacks: small
+4,4,Attacks on Online Learners: a Teacher-Student Analysis,"Machine learning models are famously vulnerable to adversarial attacks: small
 ad-hoc perturbations of the data that can catastrophically alter the model
 predictions. While a large literature has studied the case of test-time attacks
 on pre-trained models, the important case of attacks in an online learning
@@ -6279,7 +6279,7 @@ attack strength exceeds a critical threshold. We then study empirically attacks
 on learners with complex architectures using real data, confirming the insights
 of our theoretical analysis. Our findings show that greedy attacks can be
 extremely efficient, especially when data stream in small batches."
-1,4,Statistical Foundations of Prior-Data Fitted Networks,"Prior-data fitted networks (PFNs) were recently proposed as a new paradigm
+4,4,Statistical Foundations of Prior-Data Fitted Networks,"Prior-data fitted networks (PFNs) were recently proposed as a new paradigm
 for machine learning. Instead of training the network to an observed training
 set, a fixed model is pre-trained offline on small, simulated training sets
 from a variety of tasks. The pre-trained model is then used to infer class
@@ -6309,7 +6309,7 @@ regularizations by adjusting the fractional smoothness parameter. A surprising
 insight is that over-smoothing via these fractional RKHSs consistently yields
 optimal convergence rates, but the optimal hyper-parameter may decay too fast
 to be selected in practice."
-1,4,Difference of Submodular Minimization via DC Programming,"Minimizing the difference of two submodular (DS) functions is a problem that
+4,4,Difference of Submodular Minimization via DC Programming,"Minimizing the difference of two submodular (DS) functions is a problem that
 naturally occurs in various machine learning problems. Although it is well
 known that a DS problem can be equivalently formulated as the minimization of
 the difference of two convex (DC) functions, existing algorithms do not fully
@@ -6323,7 +6323,7 @@ convergence properties. In the case of CDCA, we obtain a stronger local
 minimality guarantee. Our numerical results show that our proposed algorithms
 outperform existing baselines on two applications: speech corpus selection and
 feature selection."
-1,4,A unified framework for information-theoretic generalization bounds,"This paper presents a general methodology for deriving information-theoretic
+4,4,A unified framework for information-theoretic generalization bounds,"This paper presents a general methodology for deriving information-theoretic
 generalization bounds for learning algorithms. The main technical tool is a
 probabilistic decorrelation lemma based on a change of measure and a relaxation
 of Young's inequality in $L_{\psi_p}$ Orlicz spaces. Using the decorrelation
@@ -6335,7 +6335,7 @@ the ones based on mutual information, conditional mutual information,
 stochastic chaining, and PAC-Bayes inequalities. In addition, the
 Fernique-Talagrand upper bound on the expected supremum of a subgaussian
 process emerges as a special case."
-1,4,High-dimensional Asymptotics of Denoising Autoencoders,"We address the problem of denoising data from a Gaussian mixture using a
+4,4,High-dimensional Asymptotics of Denoising Autoencoders,"We address the problem of denoising data from a Gaussian mixture using a
 two-layer non-linear autoencoder with tied weights and a skip connection. We
 consider the high-dimensional limit where the number of training samples and
 the input dimension jointly tend to infinity while the number of hidden units
@@ -6345,7 +6345,7 @@ characterize the advantage of the considered architecture over the autoencoder
 without the skip connection that relates closely to principal component
 analysis. We further show that our results accurately capture the learning
 curves on a range of real data sets."
-0,4,Optimistic Natural Policy Gradient: a Simple Efficient Policy Optimization Framework for Online RL,"While policy optimization algorithms have played an important role in recent
+4,4,Optimistic Natural Policy Gradient: a Simple Efficient Policy Optimization Framework for Online RL,"While policy optimization algorithms have played an important role in recent
 empirical success of Reinforcement Learning (RL), the existing theoretical
 understanding of policy optimization remains rather limited -- they are either
 restricted to tabular MDPs or suffer from highly suboptimal sample complexity,
@@ -6379,7 +6379,7 @@ might seem intractable, the required computations can be performed in
 polynomial time by exploiting conditional independencies in the generative
 model. We show considerable improvements over standard ""global"" RWS, which
 draws $K$ samples from the full joint."
-1,4,Mode Connectivity in Auction Design,"Optimal auction design is a fundamental problem in algorithmic game theory.
+4,4,Mode Connectivity in Auction Design,"Optimal auction design is a fundamental problem in algorithmic game theory.
 This problem is notoriously difficult already in very simple settings. Recent
 work in differentiable economics showed that neural networks can efficiently
 learn known optimal auction mechanisms and discover interesting new ones. In an
@@ -6393,7 +6393,7 @@ theoretically justifiable property of neural networks used for prediction
 problems. Our results give the first such analysis in the context of
 differentiable economics, where neural networks are used directly for solving
 non-convex optimization problems."
-1,4,Dynamic Term Structure Models with Nonlinearities using Gaussian Processes,"The importance of unspanned macroeconomic variables for Dynamic Term
+4,4,Dynamic Term Structure Models with Nonlinearities using Gaussian Processes,"The importance of unspanned macroeconomic variables for Dynamic Term
 Structure Models has been intensively discussed in the literature. To our best
 knowledge the earlier studies considered only linear interactions between the
 economy and the real-world dynamics of interest rates in DTSMs. We propose a
@@ -6447,7 +6447,7 @@ significantly fewer target samples compared to recalibrating from scratch. We
 validate our theoretical findings through numerical simulations, which confirm
 the tightness of the proposed bounds, the optimal number of bins, and the
 effectiveness of label shift adaptation."
-1,4,Functional sufficient dimension reduction through information maximization with application to classification,"Considering the case where the response variable is a categorical variable
+4,4,Functional sufficient dimension reduction through information maximization with application to classification,"Considering the case where the response variable is a categorical variable
 and the predictor is a random function, two novel functional sufficient
 dimensional reduction (FSDR) methods are proposed based on mutual information
 and square loss mutual information. Compared to the classical FSDR methods,
@@ -6463,7 +6463,7 @@ component analysis with truncation be used as a regularization mechanism. Under
 some mild conditions, the statistical consistency of the proposed methods is
 established. It is demonstrated that the two methods are competitive compared
 with some existing FSDR methods by simulations and real data analyses."
-1,4,Discounted Thompson Sampling for Non-Stationary Bandit Problems,"Non-stationary multi-armed bandit (NS-MAB) problems have recently received
+4,4,Discounted Thompson Sampling for Non-Stationary Bandit Problems,"Non-stationary multi-armed bandit (NS-MAB) problems have recently received
 significant attention. NS-MAB are typically modelled in two scenarios: abruptly
 changing, where reward distributions remain constant for a certain period and
 change at unknown time steps, and smoothly changing, where reward distributions
@@ -6504,7 +6504,7 @@ proportionally to the minimum entry of the average stationary state-action
 occupancy distribution of all agents, thus only requiring the agents
 collectively cover the entire state-action space, unveiling the blessing of
 heterogeneity."
-1,4,Posterior Inference on Infinitely Wide Bayesian Neural Networks under Weights with Unbounded Variance,"From the classical and influential works of Neal (1996), it is known that the
+4,4,Posterior Inference on Infinitely Wide Bayesian Neural Networks under Weights with Unbounded Variance,"From the classical and influential works of Neal (1996), it is known that the
 infinite width scaling limit of a Bayesian neural network with one hidden layer
 is a Gaussian process, \emph{when the network weights have bounded prior
 variance}. Neal's result has been extended to networks with multiple hidden
@@ -6523,7 +6523,7 @@ computationally efficient procedure for posterior inference, using a
 \emph{conditionally Gaussian} representation, that then allows full use of the
 Gaussian process machinery for tractable posterior inference and uncertainty
 quantification in the non-Gaussian regime."
-1,4,Augmented Message Passing Stein Variational Gradient Descent,"Stein Variational Gradient Descent (SVGD) is a popular particle-based method
+4,4,Augmented Message Passing Stein Variational Gradient Descent,"Stein Variational Gradient Descent (SVGD) is a popular particle-based method
 for Bayesian inference. However, its convergence suffers from the variance
 collapse, which reduces the accuracy and diversity of the estimation. In this
 paper, we study the isotropy property of finite particles during the
@@ -6557,7 +6557,7 @@ product. We establish the tensor product representation as the central
 representation, with a suite of unique properties. These include it being the
 most general and expressive representation, as well as being the most
 compressed representation that has errorrless unbinding and detection."
-1,4,Counterfactually Comparing Abstaining Classifiers,"Abstaining classifiers have the option to abstain from making predictions on
+4,4,Counterfactually Comparing Abstaining Classifiers,"Abstaining classifiers have the option to abstain from making predictions on
 inputs that they are unsure about. These classifiers are becoming increasingly
 popular in high-stake decision-making problems, as they can withhold uncertain
 predictions to improve their reliability and safety. When evaluating black-box
@@ -6578,7 +6578,7 @@ classifier can perform arbitrarily poorly on its abstentions. Leveraging tools
 from observational causal inference, we then develop nonparametric and doubly
 robust methods to efficiently estimate this quantity under identification. Our
 approach is examined in both simulated and real data experiments."
-3,4,Learning Pose Image Manifolds Using Geometry-Preserving GANs and Elasticae,"This paper investigates the challenge of learning image manifolds,
+4,4,Learning Pose Image Manifolds Using Geometry-Preserving GANs and Elasticae,"This paper investigates the challenge of learning image manifolds,
 specifically pose manifolds, of 3D objects using limited training data. It
 proposes a DNN approach to manifold learning and for predicting images of
 objects for novel, continuous 3D rotations. The approach uses two distinct
@@ -6592,7 +6592,7 @@ resulting interpolations resemble videos of rotating objects. Extensive
 experiments establish the superiority of this framework in learning paths on
 rotation manifolds, both visually and quantitatively, relative to
 state-of-the-art GANs and VAEs."
-1,4,Learning Likelihood Ratios with Neural Network Classifiers,"The likelihood ratio is a crucial quantity for statistical inference in
+4,4,Learning Likelihood Ratios with Neural Network Classifiers,"The likelihood ratio is a crucial quantity for statistical inference in
 science that enables hypothesis testing, construction of confidence intervals,
 reweighting of distributions, and more. Many modern scientific applications,
 however, make use of data- or simulation-driven models for which computing the
@@ -6606,7 +6606,7 @@ empirical studies detailing the performance of several common loss functionals
 and parametrizations of the classifier output in approximating the likelihood
 ratio of two univariate and multivariate Gaussian distributions as well as
 simulated high-energy particle physics datasets."
-1,4,On Consistency of Signatures Using Lasso,"Signature transforms are iterated path integrals of continuous and
+4,4,On Consistency of Signatures Using Lasso,"Signature transforms are iterated path integrals of continuous and
 discrete-time time series data, and their universal nonlinearity linearizes the
 problem of feature selection. This paper revisits the consistency issue of
 Lasso regression for the signature transform, both theoretically and
@@ -6618,7 +6618,7 @@ signatures defined by Stratonovich integrals have more consistency in the Lasso
 regression. Our findings highlight the importance of choosing appropriate
 definitions of signatures and stochastic models in statistical inference and
 machine learning."
-1,4,Optimality of Message-Passing Architectures for Sparse Graphs,"We study the node classification problem on feature-decorated graphs in the
+4,4,Optimality of Message-Passing Architectures for Sparse Graphs,"We study the node classification problem on feature-decorated graphs in the
 sparse setting, i.e., when the expected degree of a node is $O(1)$ in the
 number of nodes. Such graphs are typically known to be locally tree-like. We
 introduce a notion of Bayes optimality for node classification tasks, called
@@ -6633,7 +6633,7 @@ ratios (SNRs) in the data. We find that the optimal message-passing
 architecture interpolates between a standard MLP in the regime of low graph
 signal and a typical convolution in the regime of high graph signal.
 Furthermore, we prove a corresponding non-asymptotic result."
-1,4,Active Learning in Symbolic Regression with Physical Constraints,"Evolutionary symbolic regression (SR) fits a symbolic equation to data, which
+4,4,Active Learning in Symbolic Regression with Physical Constraints,"Evolutionary symbolic regression (SR) fits a symbolic equation to data, which
 gives a concise interpretable model. We explore using SR as a method to propose
 which data to gather in an active learning setting with physical constraints.
 SR with active learning proposes which experiments to do next. Active learning
@@ -6641,7 +6641,7 @@ is done with query by committee, where the Pareto frontier of equations is the
 committee. The physical constraints improve proposed equations in very low data
 settings. These approaches reduce the data required for SR and achieves state
 of the art results in data required to rediscover known equations."
-1,4,Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning,"This paper studies tabular reinforcement learning (RL) in the hybrid setting,
+4,4,Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning,"This paper studies tabular reinforcement learning (RL) in the hybrid setting,
 which assumes access to both an offline dataset and online interactions with
 the unknown environment. A central question boils down to how to efficiently
 utilize online data collection to strengthen and complement the offline dataset
@@ -6653,7 +6653,7 @@ not require any reward information during data collection. Our theory is
 developed based on a new notion called single-policy partial concentrability,
 which captures the trade-off between distribution mismatch and miscoverage and
 guides the interplay between offline and online data."
-1,4,Reaching Kesten-Stigum Threshold in the Stochastic Block Model under Node Corruptions,"We study robust community detection in the context of node-corrupted
+4,4,Reaching Kesten-Stigum Threshold in the Stochastic Block Model under Node Corruptions,"We study robust community detection in the context of node-corrupted
 stochastic block model, where an adversary can arbitrarily modify all the edges
 incident to a fraction of the $n$ vertices. We present the first
 polynomial-time algorithm that achieves weak recovery at the Kesten-Stigum
@@ -6667,7 +6667,7 @@ strong adversarial perturbations.
   The key ingredient of our algorithm is a novel identifiability proof that
 leverages the push-out effect of the Grothendieck norm of principal
 submatrices."
-1,4,"Separability and Scatteredness (S&S) Ratio-Based Efficient SVM Regularization Parameter, Kernel, and Kernel Parameter Selection","Support Vector Machine (SVM) is a robust machine learning algorithm with
+4,4,"Separability and Scatteredness (S&S) Ratio-Based Efficient SVM Regularization Parameter, Kernel, and Kernel Parameter Selection","Support Vector Machine (SVM) is a robust machine learning algorithm with
 broad applications in classification, regression, and outlier detection. SVM
 requires tuning the regularization parameter (RP) which controls the model
 capacity and the generalization performance. Conventionally, the optimum RP is
@@ -6709,7 +6709,7 @@ dependent experiments and examine both conditional quantile direct and indirect
 effects. To showcase the practical utility of our method, we apply it to three
 real-world datasets from a ride-sourcing platform. Theoretical findings and
 comprehensive simulation studies further substantiate our proposal."
-1,4,Algorithms for Boolean Matrix Factorization using Integer Programming,"Boolean matrix factorization (BMF) approximates a given binary input matrix
+4,4,Algorithms for Boolean Matrix Factorization using Integer Programming,"Boolean matrix factorization (BMF) approximates a given binary input matrix
 as the product of two smaller binary factors. As opposed to binary matrix
 factorization which uses standard arithmetic, BMF uses the Boolean OR and
 Boolean AND operations to perform matrix products, which leads to lower
@@ -6721,7 +6721,7 @@ of BMF can be combined optimally using another IP. This allows us to come up
 with a new algorithm: it generates several solutions using AO and then combines
 them in an optimal way. Experiments show that our algorithms (available on
 gitlab) outperform the state of the art on medium-scale problems."
-1,4,A Global-Local Approximation Framework for Large-Scale Gaussian Process Modeling,"In this work, we propose a novel framework for large-scale Gaussian process
+4,4,A Global-Local Approximation Framework for Large-Scale Gaussian Process Modeling,"In this work, we propose a novel framework for large-scale Gaussian process
 (GP) modeling. Contrary to the global, and local approximations proposed in the
 literature to address the computational bottleneck with exact GP modeling, we
 employ a combined global-local approach in building the approximation. Our
@@ -6732,7 +6732,7 @@ around the testing location. The correlation function is also modeled as a
 combination of a global, and a local kernel. The performance of our framework,
 which we refer to as TwinGP, is on par or better than the state-of-the-art GP
 modeling methods at a fraction of their computational cost."
-1,4,Automatic Hyperparameter Tuning in Sparse Matrix Factorization,"We study the problem of hyperparameter tuning in sparse matrix factorization
+4,4,Automatic Hyperparameter Tuning in Sparse Matrix Factorization,"We study the problem of hyperparameter tuning in sparse matrix factorization
 under Bayesian framework. In the prior work, an analytical solution of sparse
 matrix factorization with Laplace prior was obtained by variational Bayes
 method under several approximations. Based on this solution, we propose a novel
@@ -6741,13 +6741,13 @@ normalization factor in sparse matrix prior. We also verify that our method
 shows excellent performance for ground-truth sparse matrix reconstruction by
 comparing it with the widely-used algorithm of sparse principal component
 analysis."
-0,4,A proof of imitation of Wasserstein inverse reinforcement learning for multi-objective optimization,"We prove Wasserstein inverse reinforcement learning enables the learner's
+4,4,A proof of imitation of Wasserstein inverse reinforcement learning for multi-objective optimization,"We prove Wasserstein inverse reinforcement learning enables the learner's
 reward values to imitate the expert's reward values in a finite iteration for
 multi-objective optimizations. Moreover, we prove Wasserstein inverse
 reinforcement learning enables the learner's optimal solutions to imitate the
 expert's optimal solutions for multi-objective optimizations with lexicographic
 order."
-1,4,Optimal Weighted Random Forests,"The random forest (RF) algorithm has become a very popular prediction method
+4,4,Optimal Weighted Random Forests,"The random forest (RF) algorithm has become a very popular prediction method
 for its great flexibility and promising accuracy. In RF, it is conventional to
 put equal weights on all the base learners (trees) to aggregate their
 predictions. However, the predictive performances of different trees within the
@@ -6763,7 +6763,7 @@ infeasible but best possible model averaging estimator. Numerical studies
 conducted on real-world data sets indicate that these algorithms outperform the
 equal-weight forest and two other weighted RFs proposed in existing literature
 in most cases."
-1,4,Utility Theory of Synthetic Data Generation,"Evaluating the utility of synthetic data is critical for measuring the
+4,4,Utility Theory of Synthetic Data Generation,"Evaluating the utility of synthetic data is critical for measuring the
 effectiveness and efficiency of synthetic algorithms. Existing results focus on
 empirical evaluations of the utility of synthetic data, whereas the theoretical
 understanding of how utility is affected by synthetic data algorithms remains
@@ -6782,7 +6782,7 @@ ranking of generalization performances of models trained on the synthetic data
 is consistent with that from the original data. Finally, we conduct extensive
 experiments using non-parametric models and deep neural networks to validate
 our theoretical findings."
-3,4,Deep quantum neural networks form Gaussian processes,"It is well known that artificial neural networks initialized from independent
+4,4,Deep quantum neural networks form Gaussian processes,"It is well known that artificial neural networks initialized from independent
 and identically distributed priors converge to Gaussian processes in the limit
 of large number of neurons per hidden layer. In this work we prove an analogous
 result for Quantum Neural Networks (QNNs). Namely, we show that the outputs of
@@ -6799,7 +6799,7 @@ expectation values and gradients concentrate as $\mathcal{O}\left(\frac{1}{e^d
 \sqrt{d}}\right)$ -- exponentially in the Hilbert space dimension. Finally, we
 discuss how our results improve our understanding of concentration in
 $t$-designs."
-1,4,Model-based Validation as Probabilistic Inference,"Estimating the distribution over failures is a key step in validating
+4,4,Model-based Validation as Probabilistic Inference,"Estimating the distribution over failures is a key step in validating
 autonomous systems. Existing approaches focus on finding failures for a small
 range of initial conditions or make restrictive assumptions about the
 properties of the system under test. We frame estimating the distribution over
@@ -6813,7 +6813,7 @@ implementation of Hamiltonian Monte Carlo with multiple chains to capture
 multimodality and gradient smoothing for safe trajectories. In all experiments,
 we observed improvements in sample efficiency and parameter space coverage
 compared to black-box baseline approaches. This work is open sourced."
-1,4,A Signed Subgraph Encoding Approach via Linear Optimization for Link Sign Prediction,"In this paper, we consider the problem of inferring the sign of a link based
+4,4,A Signed Subgraph Encoding Approach via Linear Optimization for Link Sign Prediction,"In this paper, we consider the problem of inferring the sign of a link based
 on limited sign data in signed networks. Regarding this link sign prediction
 problem, SDGNN (Signed Directed Graph Neural Networks) provides the best
 prediction performance currently to the best of our knowledge. In this paper,
@@ -6829,7 +6829,7 @@ micro-F1, and Macro-F1 as the evaluation metrics. The experiment results show
 that the proposed SELO model outperforms existing baseline feature-based
 methods and embedding-based methods on all the six real-world networks and in
 all the four evaluation metrics."
-1,4,Mimetic Initialization of Self-Attention Layers,"It is notoriously difficult to train Transformers on small datasets;
+4,4,Mimetic Initialization of Self-Attention Layers,"It is notoriously difficult to train Transformers on small datasets;
 typically, large pre-trained models are instead used as the starting point. We
 explore the weights of such pre-trained Transformers (particularly for vision)
 to attempt to find reasons for this discrepancy. Surprisingly, we find that
@@ -6843,7 +6843,7 @@ weights to be approximately the identity, and the product of the value and
 projection weights to approximately the negative identity. As this mimics the
 patterns we saw in pre-trained Transformers, we call the technique ""mimetic
 initialization""."
-1,4,Outage Performance and Novel Loss Function for an ML-Assisted Resource Allocation: An Exact Analytical Framework,"Machine Learning (ML) is a popular tool that will be pivotal in enabling 6G
+4,4,Outage Performance and Novel Loss Function for an ML-Assisted Resource Allocation: An Exact Analytical Framework,"Machine Learning (ML) is a popular tool that will be pivotal in enabling 6G
 and beyond communications. This paper focuses on applying ML solutions to
 address outage probability issues commonly encountered in these systems. In
 particular, we consider a single-user multi-resource greedy allocation
@@ -6861,7 +6861,7 @@ trained using this and traditional loss functions; namely, binary cross-entropy
 trained using our novel loss function provide superior outage probability in
 all scenarios. Our loss function sometimes outperforms predictors trained with
 the BCE, MAE, and MSE loss functions by multiple orders of magnitude."
-1,4,Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage,"We study distributionally robust offline reinforcement learning (robust
+4,4,Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage,"We study distributionally robust offline reinforcement learning (robust
 offline RL), which seeks to find an optimal robust policy purely from an
 offline dataset that can perform well in perturbed environments. We propose a
 generic algorithm framework \underline{D}oubly \underline{P}essimistic
@@ -6885,7 +6885,7 @@ tabular case, are first identified and proven tractable by this paper. To the
 best of our knowledge, we first propose a general learning principle -- double
 pessimism -- for robust offline RL and show that it is provably efficient in
 the context of general function approximations."
-1,4,Balancing Risk and Reward: An Automated Phased Release Strategy,"Phased releases are a common strategy in the technology industry for
+4,4,Balancing Risk and Reward: An Automated Phased Release Strategy,"Phased releases are a common strategy in the technology industry for
 gradually releasing new products or updates through a sequence of A/B tests in
 which the number of treated units gradually grows until full deployment or
 deprecation. Performing phased releases in a principled way requires selecting
@@ -6904,7 +6904,7 @@ solves the ramp sizes by inverting probability bounds, eliminating the need for
 challenging rare-event Monte Carlo simulation. It only requires computing means
 and variances of outcome subsets, making it highly efficient and
 parallelizable."
-1,4,The Power of Learned Locally Linear Models for Nonlinear Policy Optimization,"A common pipeline in learning-based control is to iteratively estimate a
+4,4,The Power of Learned Locally Linear Models for Nonlinear Policy Optimization,"A common pipeline in learning-based control is to iteratively estimate a
 model of system dynamics, and apply a trajectory optimization algorithm -
 e.g.~$\mathtt{iLQR}$ - on the learned model to minimize a target cost. This
 paper conducts a rigorous analysis of a simplified variant of this strategy for
@@ -6915,7 +6915,7 @@ sample complexity polynomial in relevant problem parameters, and, by
 synthesizing locally stabilizing gains, overcomes exponential dependence in
 problem horizon. Experimental results validate the performance of our
 algorithm, and compare to natural deep-learning baselines."
-1,4,Expressiveness Remarks for Denoising Diffusion Models and Samplers,"Denoising diffusion models are a class of generative models which have
+4,4,Expressiveness Remarks for Denoising Diffusion Models and Samplers,"Denoising diffusion models are a class of generative models which have
 recently achieved state-of-the-art results across many domains. Gradual noise
 is added to the data using a diffusion process, which transforms the data
 distribution into a Gaussian. Samples from the generative model are then
@@ -6925,7 +6925,7 @@ diffusion models for sampling and inference tasks. In this paper, we leverage
 known connections to stochastic control akin to the F\""ollmer drift to extend
 established neural network approximation results for the F\""ollmer drift to
 denoising diffusion models and samplers."
-1,4,Toward Falsifying Causal Graphs Using a Permutation-Based Test,"Understanding the causal relationships among the variables of a system is
+4,4,Toward Falsifying Causal Graphs Using a Permutation-Based Test,"Understanding the causal relationships among the variables of a system is
 paramount to explain and control its behaviour. Inferring the causal graph from
 observational data without interventions, however, requires a lot of strong
 assumptions that are not always realistic. Even for domain experts it can be
@@ -6942,7 +6942,7 @@ DAG fits significantly better than random. Evaluating on both simulated and
 real data sets from various domains, including biology and cloud monitoring, we
 demonstrate that the true DAG is not falsified by our metric, whereas the wrong
 graphs given by a hypothetical user are likely to be falsified."
-1,4,Learning from Aggregated Data: Curated Bags versus Random Bags,"Protecting user privacy is a major concern for many machine learning systems
+4,4,Learning from Aggregated Data: Curated Bags versus Random Bags,"Protecting user privacy is a major concern for many machine learning systems
 that are deployed at scale and collect from a diverse set of population. One
 way to address this concern is by collecting and releasing data labels in an
 aggregated manner so that the information about a single user is potentially
@@ -6965,7 +6965,7 @@ indicates. Finally, we conduct a careful empirical study to confirm our
 theoretical findings. In particular, our results suggest that aggregate
 learning can be an effective method for preserving user privacy while
 maintaining model accuracy."
-1,4,A Comparative Study of Methods for Estimating Conditional Shapley Values and When to Use Them,"Shapley values originated in cooperative game theory but are extensively used
+4,4,A Comparative Study of Methods for Estimating Conditional Shapley Values and When to Use Them,"Shapley values originated in cooperative game theory but are extensively used
 today as a model-agnostic explanation framework to explain predictions made by
 complex machine learning models in the industry and academia. There are several
 algorithmic approaches for computing different versions of Shapley value
@@ -6989,7 +6989,7 @@ good and stable options. Regression-based methods are often slow to train but
 produce the Shapley value explanations quickly once trained. The vice versa is
 true for Monte Carlo-based methods, making the different methods appropriate in
 different practical situations."
-1,4,Probabilistic Distance-Based Outlier Detection,"The scores of distance-based outlier detection methods are difficult to
+4,4,Probabilistic Distance-Based Outlier Detection,"The scores of distance-based outlier detection methods are difficult to
 interpret, making it challenging to determine a cut-off threshold between
 normal and outlier data points without additional context. We describe a
 generic transformation of distance-based outlier scores into interpretable,
@@ -7006,7 +7006,7 @@ interpretable outlier scores with increased contrast between normal and outlier
 samples. Our work generalizes to a wide range of distance-based outlier
 detection methods, and because existing distance computations are used, it adds
 no significant computational overhead."
-1,4,Lp- and Risk Consistency of Localized SVMs,"Kernel-based regularized risk minimizers, also called support vector machines
+4,4,Lp- and Risk Consistency of Localized SVMs,"Kernel-based regularized risk minimizers, also called support vector machines
 (SVMs), are known to possess many desirable properties but suffer from their
 super-linear computational requirements when dealing with large data sets. This
 problem can be tackled by using localized SVMs instead, which also offer the
@@ -7035,7 +7035,7 @@ our approach. Overall, this work introduces a promising framework for
 regression analysis of non-Euclidean variables, effectively addressing the
 challenges associated with limited and noisy covariate data, with potential
 applications in diverse fields."
-1,4,Transfer Causal Learning: Causal Effect Estimation with Knowledge Transfer,"A novel problem of improving causal effect estimation accuracy with the help
+4,4,Transfer Causal Learning: Causal Effect Estimation with Knowledge Transfer,"A novel problem of improving causal effect estimation accuracy with the help
 of knowledge transfer under the same covariate (or feature) space setting,
 i.e., homogeneous transfer learning (TL), is studied, referred to as the
 Transfer Causal Learning (TCL) problem. While most recent efforts in adapting
@@ -7059,7 +7059,7 @@ mis-specification. We demonstrate this empirical benefit through extensive
 experiments using GLM and recent neural network based \texttt{$\ell_1$-TCL} on
 both benchmark semi-synthetic and real datasets, which shows improved
 performance compared with existing TL approaches for ACE estimation."
-3,4,The Hessian perspective into the Nature of Convolutional Neural Networks,"While Convolutional Neural Networks (CNNs) have long been investigated and
+4,4,The Hessian perspective into the Nature of Convolutional Neural Networks,"While Convolutional Neural Networks (CNNs) have long been investigated and
 applied, as well as theorized, we aim to provide a slightly different
 perspective into their nature -- through the perspective of their Hessian maps.
 The reason is that the loss Hessian captures the pairwise interaction of
@@ -7088,7 +7088,7 @@ experiments of projection onto convex hulls show faster convergence than
 similar algorithms. Finally, we apply our algorithm to online learning problems
 and prove the convergence of the average regret for (1) Prediction with expert
 advice and (2) Universal Portfolios."
-1,4,Scalable and Robust Tensor Ring Decomposition for Large-scale Data,"Tensor ring (TR) decomposition has recently received increased attention due
+4,4,Scalable and Robust Tensor Ring Decomposition for Large-scale Data,"Tensor ring (TR) decomposition has recently received increased attention due
 to its superior expressive performance for high-order tensors. However, the
 applicability of traditional TR decomposition algorithms to real-world
 applications is hindered by prevalent large data sizes, missing entries, and
@@ -7137,7 +7137,7 @@ the ideas and methods, we apply the framework to a trial investigating the
 effect of risdisplam on motor function in patients with spinal muscular atrophy
 for which there exists an external set of control patients from a previous
 trial."
-1,4,A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes,"The proximal policy optimization (PPO) algorithm stands as one of the most
+4,4,A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes,"The proximal policy optimization (PPO) algorithm stands as one of the most
 prosperous methods in the field of reinforcement learning (RL). Despite its
 success, the theoretical understanding of PPO remains deficient. Specifically,
 it is unclear whether PPO or its optimistic variants can effectively solve
@@ -7152,7 +7152,7 @@ linear MDPs and adversarial linear MDPs with full information. Additionally,
 our algorithm design features a novel multi-batched updating mechanism and the
 theoretical analysis utilizes a new covering number argument of value and
 policy classes, which might be of independent interest."
-1,4,Fair Information Spread on Social Networks with Community Structure,"Information spread through social networks is ubiquitous. Influence maximiza-
+4,4,Fair Information Spread on Social Networks with Community Structure,"Information spread through social networks is ubiquitous. Influence maximiza-
 tion (IM) algorithms aim to identify individuals who will generate the greatest
 spread through the social network if provided with information, and have been
 largely devel- oped with marketing in mind. In social networks with community
@@ -7188,7 +7188,7 @@ in the computational cost. We also propose an effective initialization strategy
 based on the nuclear norm as a proxy for the rank function. We illustrate the
 effectiveness of the proposed algorithms (available on gitlab) on synthetic and
 real-world data sets."
-1,4,"On the connections between optimization algorithms, Lyapunov functions, and differential equations: theory and insights","We study connections between differential equations and optimization
+4,4,"On the connections between optimization algorithms, Lyapunov functions, and differential equations: theory and insights","We study connections between differential equations and optimization
 algorithms for $m$-strongly and $L$-smooth convex functions through the use of
 Lyapunov functions by generalizing the Linear Matrix Inequality framework
 developed by Fazylab et al. in 2018. Using the new framework we derive
@@ -7203,7 +7203,7 @@ addition discuss a new interpretation of Nesterov method as an additive
 Runge-Kutta discretization and explain the structural conditions that
 discretizations of the Polyak equation should satisfy in order to lead to
 accelerated optimization algorithms."
-1,4,Encoding Domain Expertise into Multilevel Models for Source Location,"Data from populations of systems are prevalent in many industrial
+4,4,Encoding Domain Expertise into Multilevel Models for Source Location,"Data from populations of systems are prevalent in many industrial
 applications. Machines and infrastructure are increasingly instrumented with
 sensing systems, emitting streams of telemetry data with complex
 interdependencies. In practice, data-centric monitoring procedures tend to
@@ -7219,7 +7219,7 @@ mapping for source location, to illustrate how multilevel models naturally lend
 themselves to representing aggregate systems in engineering. In particular, we
 focus on constraining the combined models with domain knowledge to enhance
 transfer learning and enable further insights at the population level."
-1,4,Topological Interpretability for Deep-Learning,"With the increasing adoption of AI-based systems across everyday life, the
+4,4,Topological Interpretability for Deep-Learning,"With the increasing adoption of AI-based systems across everyday life, the
 need to understand their decision-making mechanisms is correspondingly
 accelerating. The level at which we can trust the statistical inferences made
 from AI-based decision systems is an increasing concern, especially in
@@ -7260,7 +7260,7 @@ generalization bounds for our method that show a significant increase in the
 effective sample size compared with reweighted methods. The proposed method
 also achieves enhanced classification performance in both synthetic and
 empirical experiments."
-1,4,Kernel-based Joint Independence Tests for Multivariate Stationary and Nonstationary Time-Series,"Multivariate time-series data that capture the temporal evolution of
+4,4,Kernel-based Joint Independence Tests for Multivariate Stationary and Nonstationary Time-Series,"Multivariate time-series data that capture the temporal evolution of
 interconnected systems are ubiquitous in diverse areas. Understanding the
 complex relationships and potential dependencies among co-observed variables is
 crucial for the accurate statistical modelling and analysis of such systems.
@@ -7292,7 +7292,7 @@ LSLR and MLSLR showed that this modification and squeezing of the logits in
 LSLR have negative effects on the probability estimation and classification
 performance. The understanding of the properties of LS provided by these
 comparisons allows us to propose MLSLR as an improvement over LSLR."
-1,4,Convergence Analysis of Mean Shift,"The mean shift (MS) algorithm seeks a mode of the kernel density estimate
+4,4,Convergence Analysis of Mean Shift,"The mean shift (MS) algorithm seeks a mode of the kernel density estimate
 (KDE). This study presents a convergence guarantee of the mode estimate
 sequence generated by the MS algorithm and an evaluation of the convergence
 rate, under fairly mild conditions, with the help of the argument concerning
@@ -7301,7 +7301,7 @@ covering analytic kernels and the Epanechnikov kernel, are significant in that
 they cover the biweight kernel that is optimal among non-negative kernels in
 terms of the asymptotic statistical efficiency for the KDE-based mode
 estimation."
-1,4,MolHF: A Hierarchical Normalizing Flow for Molecular Graph Generation,"Molecular de novo design is a critical yet challenging task in scientific
+4,4,MolHF: A Hierarchical Normalizing Flow for Molecular Graph Generation,"Molecular de novo design is a critical yet challenging task in scientific
 fields, aiming to design novel molecular structures with desired property
 profiles. Significant progress has been made by resorting to generative models
 for graphs. However, limited attention is paid to hierarchical generative
@@ -7321,7 +7321,7 @@ optimization, implying its high capacity to model data distribution.
 Furthermore, MolHF is the first flow-based model that can be applied to model
 larger molecules (polymer) with more than 100 heavy atoms. The code and models
 are available at https://github.com/violet-sto/MolHF."
-3,4,Theoretical Analysis of Inductive Biases in Deep Convolutional Networks,"In this paper, we study the inductive biases in convolutional neural networks
+4,4,Theoretical Analysis of Inductive Biases in Deep Convolutional Networks,"In this paper, we study the inductive biases in convolutional neural networks
 (CNNs), which are believed to be vital drivers behind CNNs' exceptional
 performance on vision-like tasks. We first analyze the universality of CNNs,
 i.e., the ability to approximate continuous functions. We prove that a depth of
@@ -7364,7 +7364,7 @@ cardinalities of the state and action spaces. We also provide hardness results
 and regret lower bounds to justify the near optimality of our algorithm and the
 unavoidability of $\log|\mathcal{S}|$ and $\log|\mathcal{A}|$ in the regret
 bound."
-1,4,Uniform-PAC Guarantees for Model-Based RL with Bounded Eluder Dimension,"Recently, there has been remarkable progress in reinforcement learning (RL)
+4,4,Uniform-PAC Guarantees for Model-Based RL with Bounded Eluder Dimension,"Recently, there has been remarkable progress in reinforcement learning (RL)
 with general function approximation. However, all these works only provide
 regret or sample complexity guarantees. It is still an open question if one can
 achieve stronger performance guarantees, i.e., the uniform probably approximate
@@ -7378,7 +7378,7 @@ achieved uniform-PAC sample complexity is tight in the sense that it matches
 the state-of-the-art regret bounds or sample complexity guarantees when reduced
 to the linear case. To the best of our knowledge, this is the first work for
 uniform-PAC guarantees on bandit and RL that goes beyond linear cases."
-1,4,Neural Boltzmann Machines,"Conditional generative models are capable of using contextual information as
+4,4,Neural Boltzmann Machines,"Conditional generative models are capable of using contextual information as
 input to create new imaginative outputs. Conditional Restricted Boltzmann
 Machines (CRBMs) are one class of conditional generative models that have
 proven to be especially adept at modeling noisy discrete or continuous data,
@@ -7392,7 +7392,7 @@ demonstrate the utility of NBMs especially with normally distributed data which
 has historically caused problems for Gaussian-Bernoulli CRBMs. Code to
 reproduce our results can be found at
 https://github.com/unlearnai/neural-boltzmann-machines."
-1,4,Local Convergence of Gradient Descent-Ascent for Training Generative Adversarial Networks,"Generative Adversarial Networks (GANs) are a popular formulation to train
+4,4,Local Convergence of Gradient Descent-Ascent for Training Generative Adversarial Networks,"Generative Adversarial Networks (GANs) are a popular formulation to train
 generative models for complex high dimensional data. The standard method for
 training GANs involves a gradient descent-ascent (GDA) procedure on a minimax
 optimization problem. This procedure is hard to analyze in general due to the
@@ -7405,7 +7405,7 @@ regularization, and the bandwidth of the kernel discriminator, on the local
 convergence rate of GDA. Importantly, we show phase transitions that indicate
 when the system converges, oscillates, or diverges. We also provide numerical
 simulations that verify our claims."
-1,4,Orthogonal polynomial approximation and Extended Dynamic Mode Decomposition in chaos,"Extended Dynamic Mode Decomposition (EDMD) is a data-driven tool for
+4,4,Orthogonal polynomial approximation and Extended Dynamic Mode Decomposition in chaos,"Extended Dynamic Mode Decomposition (EDMD) is a data-driven tool for
 forecasting and model reduction of dynamics, which has been extensively taken
 up in the physical sciences. While the method is conceptually simple, in
 deterministic chaos it is unclear what its properties are or even what it
